@@ -47,12 +47,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={`${baseUrl}${locale === 'es' ? '' : `/${locale}`}`} />
-        <link rel="alternate" hrefLang="es" href={`${baseUrl}/`} />
-        <link rel="alternate" hrefLang="en" href={`${baseUrl}/en`} />
-        <link rel="alternate" hrefLang="fr" href={`${baseUrl}/fr`} />
-        <link rel="alternate" hrefLang="zh-Hant" href={`${baseUrl}/zh-Hant`} />
-        <link rel="alternate" hrefLang="x-default" href={`${baseUrl}/`} />
         <meta name="google-adsense-account" content="ca-pub-9279583389810634" />
         <script dangerouslySetInnerHTML={{
           __html: `
