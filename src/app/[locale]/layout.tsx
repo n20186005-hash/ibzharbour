@@ -47,11 +47,11 @@ export default async function LocaleLayout({
     <html lang={locale} suppressHydrationWarning>
       <head>
         <link rel="canonical" href={`${baseUrl}${locale === 'es' ? '' : `/${locale}`}`} />
-        <link rel="alternate" hreflang="es" href={`${baseUrl}/`} />
-        <link rel="alternate" hreflang="en" href={`${baseUrl}/en`} />
-        <link rel="alternate" hreflang="fr" href={`${baseUrl}/fr`} />
-        <link rel="alternate" hreflang="zh-Hant" href={`${baseUrl}/zh-Hant`} />
-        <link rel="alternate" hreflang="x-default" href={`${baseUrl}/`} />
+        <link rel="alternate" hrefLang="es" href={`${baseUrl}/`} />
+        <link rel="alternate" hrefLang="en" href={`${baseUrl}/en`} />
+        <link rel="alternate" hrefLang="fr" href={`${baseUrl}/fr`} />
+        <link rel="alternate" hrefLang="zh-Hant" href={`${baseUrl}/zh-Hant`} />
+        <link rel="alternate" hrefLang="x-default" href={`${baseUrl}/`} />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9279583389810634" crossOrigin="anonymous"></script>
         <meta name="google-adsense-account" content="ca-pub-9279583389810634" />
         <script dangerouslySetInnerHTML={{
