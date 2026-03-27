@@ -144,7 +144,7 @@
     "backHome": "Retour à l'Accueil",
     "title": "Politique de Confidentialité",
     "lastUpdated": "Dernière mise à jour : mars 2026",
-    "intro": "Cette Politique de Confidentialité explique comment ibzharbour.com collecte, utilise et protège vos informations personnelles lorsque vous visitez notre site web.",
+    "intro": "Cette Politique de Confidentialité explique comment ibzharbour.com collecte, utilise et protège vos informations personnelles lorsque vous visiter notre site web. Nous nous engageons à protéger votre vie privée et à garantir une expérience de navigation sécurisée.",
     "sections": [
       {
         "title": "Informations que Nous Collectons",
@@ -156,23 +156,37 @@
       },
       {
         "title": "Services Tiers",
-        "content": "Notre site web peut utiliser des services tiers tels que Google Maps (pour les cartes intégrées et les données de localisation), Google Analytics (pour l'analyse du trafic) et Unsplash (pour les photographies). Ces services disposent de leurs propres politiques de confidentialité."
+        "content": "Notre site web peut utiliser des services tiers tels que Google Maps (pour les cartes intégrées et les données de localisation), Google Analytics (pour l'analyse du trafic) et Unsplash (pour les photographies). Nous pouvons également afficher des annonces Google AdSense. Ces services disposent de leurs propres politiques de confidentialité."
+      },
+      {
+        "title": "Cookies et Technologies de Suivi",
+        "content": "Nous utilisons des cookies pour améliorer votre expérience de navigation. Les cookies essentiels sont nécessaires au fonctionnement de base du site. Les cookies analytiques nous aident à comprendre comment les visiteurs interagissent avec notre site. Vous pouvez gérer vos préférences de cookies via notre page Paramètres des Cookies."
       },
       {
         "title": "Vos Droits",
         "content": "En vertu du RGPD et des réglementations applicables, vous avez le droit de : accéder à vos données personnelles, demander leur rectification ou leur suppression, vous opposer au traitement et déposer une plainte auprès d'une autorité de contrôle."
       },
       {
-        "title": "Contact",
-        "content": "Pour toute question relative à la confidentialité, contactez-nous à : claritleonelmnicol@gmail.com"
+        "title": "Sécurité des Données",
+        "content": "Nous mettons en œuvre des mesures de sécurité appropriées pour protéger vos informations personnelles contre tout accès non autorisé, toute alteration, divulgation ou destruction. Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est 100% sécurisée."
+      },
+      {
+        "title": "Confidentialité des Mineurs",
+        "content": "Notre site web n'est pas destiné aux enfants de moins de 16 ans. Nous ne collectons pas délibérément d'informations personnelles auprès des enfants. Si vous pensez que nous avons collecté de telles informations par inadvertance, contactez-nous immédiatement."
+      },
+      {
+        "title": "Modifications de Cette Politique",
+        "content": "Nous pouvons mettre à jour cette Politique de Confidentialité périodiquement pour refléter les changements de nos pratiques ou exigences légales. Toute modification sera publiée sur cette page avec une date de révision mise à jour."
       }
-    ]
+    ],
+    "contactTitle": "Nous Contacter",
+    "contactContent": "Pour toute question relative à la confidentialité, contactez-nous à : claritleonelmnicol@gmail.com"
   },
   "terms": {
     "backHome": "Retour à l'Accueil",
     "title": "Conditions d'Utilisation",
     "lastUpdated": "Dernière mise à jour : mars 2026",
-    "intro": "En accédant à ibzharbour.com et en l'utilisant, vous acceptez d'être lié par les présentes Conditions d'Utilisation.",
+    "intro": "En accédant à ibzharbour.com et en l'utilisant, vous acceptez d'être lié par les présentes Conditions d'Utilisation. Veuillez lire attentivement ces conditions avant d'utiliser notre site. Si vous n'êtes pas d'accord avec une partie de ces conditions, n'utilisez pas notre site.",
     "sections": [
       {
         "title": "Utilisation du Contenu",
@@ -187,14 +201,24 @@
         "content": "La conception du site et le contenu original sont protégés par le droit d'auteur. Les photographies proviennent d'Unsplash selon leurs conditions de licence. Les données Google Maps sont utilisées conformément aux Conditions d'Utilisation de Google."
       },
       {
+        "title": "Liens Externes",
+        "content": "Notre site peut contenir des liens vers des sites web tiers. Nous ne sommes pas responsables du contenu, de l'exactitude ou des pratiques des sites web liés. Les utilisateurs doivent consulter les conditions et politiques de confidentialité des sites tiers qu'ils visitent."
+      },
+      {
         "title": "Limitation de Responsabilité",
         "content": "Ce site est fourni « en l'état » sans garantie. Nous ne sommes pas responsables des dommages résultant de l'utilisation des informations de ce site, y compris les décisions de voyage basées sur notre contenu."
       },
       {
-        "title": "Contact",
-        "content": "Pour toute question concernant ces conditions, contactez : claritleonelmnicol@gmail.com"
+        "title": "Conduite de l'Utilisateur",
+        "content": "En utilisant ce site, vous acceptez de ne pas : utiliser le site à des fins illégales, tenter d'accéder sans autorisation à une partie du site, interférer avec le fonctionnement du site, ou transmettre du code nuisible."
+      },
+      {
+        "title": "Droit Applicable",
+        "content": "Les présentes Conditions d'Utilisation seront régies et interprétées conformément aux lois applicables. Tout litige sera résolu par les voies légales appropriées."
       }
-    ]
+    ],
+    "contactTitle": "Nous Contacter",
+    "contactContent": "Pour toute question concernant ces conditions, contactez : claritleonelmnicol@gmail.com"
   },
   "cookieSettings": {
     "backHome": "Retour à l'Accueil",

@@ -144,7 +144,7 @@
     "backHome": "Volver al Inicio",
     "title": "Política de Privacidad",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Esta Política de Privacidad explica cómo ibzharbour.com recopila, utiliza y protege tu información personal cuando visitas nuestro sitio web.",
+    "intro": "Esta Política de Privacidad explica cómo ibzharbour.com recopila, utiliza y protege tu información personal cuando visitas nuestro sitio web. Nos comprometemos a proteger tu privacidad y garantizar una experiencia de navegación segura.",
     "sections": [
       {
         "title": "Información que Recopilamos",
@@ -156,23 +156,37 @@
       },
       {
         "title": "Servicios de Terceros",
-        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para fotografías). Estos servicios tienen sus propias políticas de privacidad."
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para fotografías). También podemos mostrar anuncios de Google AdSense. Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "title": "Cookies y Tecnologías de Seguimiento",
+        "content": "Utilizamos cookies para mejorar tu experiencia de navegación. Las cookies esenciales son necesarias para la funcionalidad básica del sitio. Las cookies analíticas nos ayudan a entender cómo interactúan los visitantes con nuestro sitio web. Puedes gestionar tus preferencias de cookies a través de nuestra página de Configuración de Cookies."
       },
       {
         "title": "Tus Derechos",
         "content": "Según el RGPD y la normativa aplicable, tienes derecho a: acceder a tus datos personales, solicitar su corrección o eliminación, oponerte al tratamiento y presentar una reclamación ante una autoridad de control."
       },
       {
-        "title": "Contacto",
-        "content": "Para consultas relacionadas con la privacidad, contacta con nosotros en: claritleonelmnicol@gmail.com"
+        "title": "Seguridad de los Datos",
+        "content": "Implementamos medidas de seguridad apropiadas para proteger tu información personal contra accesos no autorizados, alteraciones, divulgaciones o destrucciones. Sin embargo, ningún método de transmisión por Internet o almacenamiento electrónico es 100% seguro."
+      },
+      {
+        "title": "Privacidad de los Menores",
+        "content": "Nuestro sitio web no está dirigido a niños menores de 16 años. No recopilamos deliberadamente información personal de niños. Si crees que hemos recopilado dicha información inadvertidamente, contáctanos inmediatamente."
+      },
+      {
+        "title": "Cambios en Esta Política",
+        "content": "Podemos actualizar esta Política de Privacidad periódicamente para reflejar cambios en nuestras prácticas o requisitos legales. Cualquier cambio se publicará en esta página con una fecha de revisión actualizada."
       }
-    ]
+    ],
+    "contactTitle": "Contáctanos",
+    "contactContent": "Para consultas relacionadas con la privacidad, contacta con nosotros en: claritleonelmnicol@gmail.com"
   },
   "terms": {
     "backHome": "Volver al Inicio",
     "title": "Términos de Servicio",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Al acceder y utilizar ibzharbour.com, aceptas quedar vinculado por estos Términos de Servicio.",
+    "intro": "Al acceder y utilizar ibzharbour.com, aceptas quedar vinculado por estos Términos de Servicio. Lee estos términos cuidadosamente antes de usar nuestro sitio. Si no estás de acuerdo con alguna parte de estos términos, no uses nuestro sitio.",
     "sections": [
       {
         "title": "Uso del Contenido",
@@ -187,14 +201,24 @@
         "content": "El diseño del sitio web y el contenido original están protegidos por derechos de autor. Las fotografías proceden de Unsplash bajo sus términos de licencia. Los datos de Google Maps se utilizan conforme a las Condiciones de Servicio de Google."
       },
       {
-        "title": "Limitación de Responsabilidad",
-        "content": "Este sitio web se proporciona «tal cual» sin garantías. No somos responsables de ningún daño derivado del uso de la información de este sitio, incluyendo, entre otros, decisiones de viaje basadas en nuestro contenido."
+        "title": "Enlaces Externos",
+        "content": "Nuestro sitio puede contener enlaces a sitios web de terceros. No somos responsables del contenido, exactitud o prácticas de los sitios web enlazados. Los usuarios deben revisar los términos y políticas de privacidad de los sitios de terceros que visiten."
       },
       {
-        "title": "Contacto",
-        "content": "Para preguntas sobre estos términos, contacta con: claritleonelmnicol@gmail.com"
+        "title": "Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona «tal cual» sin garantías. No somos responsables de ningún daño derivado del uso de la información de este sitio, incluyendo decisiones de viaje basadas en nuestro contenido."
+      },
+      {
+        "title": "Conducta del Usuario",
+        "content": "Al usar este sitio, aceptas no: usar el sitio para ningún propósito ilegal, intentar acceder no autorizado a cualquier parte del sitio, interferir con la operación del sitio, o transmitir código dañino."
+      },
+      {
+        "title": "Ley Aplicable",
+        "content": "Estos Términos de Servicio se regirán e interpretarán de acuerdo con las leyes aplicables. Cualquier disputa se resolverá a través de los canales legales apropiados."
       }
-    ]
+    ],
+    "contactTitle": "Contáctanos",
+    "contactContent": "Para preguntas sobre estos términos, contacta con: claritleonelmnicol@gmail.com"
   },
   "cookieSettings": {
     "backHome": "Volver al Inicio",
