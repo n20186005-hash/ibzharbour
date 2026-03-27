@@ -11,6 +11,7 @@
     "client-only": "^0.0.1",
     "next": "^14.2.0",
     "next-intl": "^3.20.0",
+    "puppeteer": "^24.40.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
     "swiper": "^11.1.0"
