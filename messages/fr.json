@@ -25,6 +25,10 @@
   "about": {
     "title": "Découvrir le Port",
     "description": "Situé au cœur de la ville d'Ibiza, dans les îles Baléares espagnoles, le port d'Ibiza (Port d'Eivissa) est bien plus qu'un refuge pour yachts de luxe : c'est le carrefour idéal entre histoire millénaire et vie méditerranéenne vibrante. Que vous recherchiez des tapas authentiques, des croisières au coucher du soleil ou la vieille ville classée au patrimoine mondial, c'est le point de départ parfait.",
+    "disclaimer": {
+      "title": "À propos de ce site",
+      "content": "Ce site est une plateforme indépendante d'information touristique de tiers, conçue pour fournir des conseils objectifs sur la visite du port et de ses environs. Les contenus sont compilés à partir de sources publiques, notamment des organismes officiels de tourisme, des offices de tourisme locaux et Wikipédia, puis complétés par des informations publiques de base issues de Google Maps."
+    },
     "highlights": {
       "title": "Points forts",
       "items": [

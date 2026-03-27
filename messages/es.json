@@ -25,6 +25,10 @@
   "about": {
     "title": "Descubre el Puerto",
     "description": "Situado en el corazón de la ciudad de Ibiza, en las Islas Baleares, el Puerto de Ibiza (Port d'Eivissa) es mucho más que un refugio de yates de lujo: es el punto de encuentro perfecto entre la historia milenaria y la vibrante vida mediterránea. Ya busques tapas auténticas, cruceros al atardecer o explorar el casco antiguo declarado Patrimonio de la Humanidad, este es tu punto de partida ideal.",
+    "disclaimer": {
+      "title": "Sobre este sitio",
+      "content": "Este sitio web es una plataforma independiente de información turística de terceros, creada para ofrecer recomendaciones objetivas sobre la visita al puerto y sus alrededores. La información se recopila a partir de fuentes públicas, incluidas entidades oficiales de turismo, organismos turísticos locales y Wikipedia, y se complementa con información pública básica de Google Maps."
+    },
     "highlights": {
       "title": "Destacados",
       "items": [

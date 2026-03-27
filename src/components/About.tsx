@@ -15,6 +15,21 @@ export default function About() {
         {t('description')}
       </p>
 
+      <div
+        className="mb-10 max-w-3xl rounded-2xl border p-5 md:p-6"
+        style={{
+          backgroundColor: 'var(--bg-secondary)',
+          borderColor: 'var(--border-color)'
+        }}
+      >
+        <h3 className="font-serif text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+          {t('disclaimer.title')}
+        </h3>
+        <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+          {t('disclaimer.content')}
+        </p>
+      </div>
+
       <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
         {t('highlights.title')}
       </h3>

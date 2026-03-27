@@ -25,6 +25,10 @@
   "about": {
     "title": "Discover the Harbour",
     "description": "Located in the heart of Ibiza Town in Spain's Balearic Islands, Ibiza Harbour (Port d'Eivissa) is far more than a playground for luxury yachts — it's the perfect hub where ancient history meets vibrant Mediterranean life. Whether you're seeking authentic tapas, sunset boat cruises, or the UNESCO World Heritage old town, this is your ideal starting point.",
+    "disclaimer": {
+      "title": "About This Site",
+      "content": "This website is an independent third-party travel information site created to provide objective guidance for visiting the harbour and its surrounding area. The content is compiled from public sources, including official tourism bodies, local tourism authorities and Wikipedia, and is supplemented with basic public information from Google Maps."
+    },
     "highlights": {
       "title": "Highlights",
       "items": [
