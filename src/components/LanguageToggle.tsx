@@ -1,6 +1,5 @@
 'use client';
 import { useLocale } from 'next-intl';
-import { useRouter, usePathname } from '@/i18n/navigation';
 import { useState, useRef, useEffect } from 'react';
 
 const locales = [
@@ -12,8 +11,6 @@ const locales = [
 
 export default function LanguageToggle() {
   const locale = useLocale();
-  const router = useRouter();
-  const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -26,6 +23,19 @@ export default function LanguageToggle() {
   }, []);
 
   const current = locales.find(l => l.code === locale) || locales[0];
+
+  const getLocalizedPath = (nextLocale: string) => {
+    const { pathname, search, hash } = window.location;
+    const pathWithoutLocale = pathname.replace(/^\/(es|en|fr|zh-Hant)(?=\/|$)/, '') || '/';
+    const normalizedPath = pathWithoutLocale.startsWith('/') ? pathWithoutLocale : `/${pathWithoutLocale}`;
+    const targetPath = nextLocale === 'es'
+      ? normalizedPath
+      : normalizedPath === '/'
+        ? `/${nextLocale}`
+        : `/${nextLocale}${normalizedPath}`;
+
+    return `${targetPath}${search}${hash}`;
+  };
 
   return (
     <div ref={ref} className="relative">
@@ -51,7 +61,7 @@ export default function LanguageToggle() {
             <button
               key={l.code}
               onClick={() => {
-                router.replace(pathname, { locale: l.code });
+                window.location.assign(getLocalizedPath(l.code));
                 setOpen(false);
               }}
               className="w-full text-left px-4 py-2 text-sm hover:opacity-70 transition-opacity flex items-center justify-between"
