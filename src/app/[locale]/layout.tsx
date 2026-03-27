@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import Script from 'next/script';
 import '../globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -52,7 +53,6 @@ export default async function LocaleLayout({
         <link rel="alternate" hrefLang="fr" href={`${baseUrl}/fr`} />
         <link rel="alternate" hrefLang="zh-Hant" href={`${baseUrl}/zh-Hant`} />
         <link rel="alternate" hrefLang="x-default" href={`${baseUrl}/`} />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9279583389810634" crossOrigin="anonymous"></script>
         <meta name="google-adsense-account" content="ca-pub-9279583389810634" />
         <script dangerouslySetInnerHTML={{
           __html: `
@@ -71,6 +71,12 @@ export default async function LocaleLayout({
           <main>{children}</main>
           <Footer />
         </NextIntlClientProvider>
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9279583389810634"
+          crossOrigin="anonymous"
+          strategy="lazyOnload"
+        />
       </body>
     </html>
   );
