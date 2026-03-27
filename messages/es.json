@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Port d'Eivissa — Puerto de Ibiza, Islas Baleares",
+    "description": "Guía completa del puerto de Ibiza: marina de yates, paseo marítimo, Dalt Vila, ferris a Formentera, restaurantes y vida nocturna."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Port d'Eivissa",
+    "subtitle": "El emblemático puerto de Ibiza, corazón del Mediterráneo",
+    "rating": "4.5/5",
+    "reviewCount": "23,759",
+    "reviewLabel": "reseñas",
+    "hours": "Abierto las 24 horas",
+    "openMaps": "Abrir en Google Maps",
+    "tags": ["Puerto", "Yates", "Mediterráneo", "Dalt Vila", "Cruceros", "Atardecer", "Formentera", "Gastronomía"]
+  },
+  "about": {
+    "title": "Descubre el Puerto",
+    "description": "Situado en el corazón de la ciudad de Ibiza, en las Islas Baleares, el Puerto de Ibiza (Port d'Eivissa) es mucho más que un refugio de yates de lujo: es el punto de encuentro perfecto entre la historia milenaria y la vibrante vida mediterránea. Ya busques tapas auténticas, cruceros al atardecer o explorar el casco antiguo declarado Patrimonio de la Humanidad, este es tu punto de partida ideal.",
+    "highlights": {
+      "title": "Destacados",
+      "items": [
+        "Marina de yates de lujo y paseo marítimo",
+        "Dalt Vila, casco antiguo Patrimonio de la Humanidad por la UNESCO",
+        "Punto de partida para excursiones a Formentera",
+        "Animada oferta gastronómica, comercial y de ocio nocturno",
+        "Acceso público gratuito las 24 horas con vistas al Mediterráneo",
+        "Puerto de cruceros con tiendas, bares y restaurantes"
+      ]
+    },
+    "keywords": {
+      "title": "Palabras clave relacionadas"
+    },
+    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+  },
+  "explore": {
+    "title": "Explora el Corazón Marítimo de Ibiza",
+    "items": [
+      {
+        "title": "Paseo de la Marina (Marina Port Ibiza)",
+        "description": "Una de las zonas más exclusivas de Ibiza. Pasea junto al mar admirando impresionantes superyates mientras disfrutas de boutiques, cafeterías al aire libre y cócteles al atardecer. La hora dorada tiñe de oro los cascos blancos y el mar en un espectáculo inolvidable."
+      },
+      {
+        "title": "Dalt Vila — Casco Antiguo Patrimonio de la Humanidad",
+        "description": "El telón de fondo del puerto es la majestuosa Dalt Vila. Cruza el Portal de ses Taules, con su gran arco de piedra y puente levadizo, para adentrarte en un laberinto medieval de calles empedradas. Sube hasta la Catedral de Santa María y contempla vistas panorámicas de todo el puerto y el Mediterráneo."
+      },
+      {
+        "title": "Monumento a los Corsarios",
+        "description": "En el paseo del puerto se alza el único monumento del mundo dedicado a los corsarios. En el siglo XVI, los ibicencos formaron flotas armadas autorizadas para defender la isla de las amenazas marítimas. Este obelisco honra a quienes protegieron Ibiza."
+      },
+      {
+        "title": "Excursiones en Barco e Isla en Isla",
+        "description": "El puerto de Ibiza es un importante centro marítimo. Reserva cruceros en catamarán al atardecer, alquila yates privados o toma el ferri a Formentera — el «Caribe del Mediterráneo» — a solo unos minutos en barco, perfecta para una escapada de un día."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Imágenes del puerto y sus alrededores",
+    "source": "Foto: Google Maps (última actualización: 2026). Para ver la galería completa, haz clic abajo.",
+    "viewAll": "Ver todas las fotos en Google Maps",
+    "images": [
+      { "alt": "Panorámica del puerto de Ibiza", "caption": "Vista panorámica del puerto" },
+      { "alt": "Yates de lujo", "caption": "Yates en la marina" },
+      { "alt": "Casco antiguo de Dalt Vila", "caption": "Perfil de Dalt Vila" },
+      { "alt": "Atardecer sobre el puerto", "caption": "Atardecer mediterráneo" },
+      { "alt": "Restaurantes junto al mar", "caption": "Restaurantes frente al mar" },
+      { "alt": "Ferri a Formentera", "caption": "Terminal de ferris" },
+      { "alt": "Paseo del puerto", "caption": "Paseo nocturno" },
+      { "alt": "Vista de la ciudad de Ibiza", "caption": "Ibiza ciudad desde el puerto" }
+    ]
+  },
+  "reviews": {
+    "title": "Reseñas Reales de Visitantes",
+    "declaration": "Valoraciones y reseñas procedentes de Google Maps (última actualización: 2026). Mostramos solo una selección de reseñas verificadas con alta puntuación. Para consultar todas las reseñas completas y más recientes, haz clic en el enlace inferior.",
+    "seeAll": "Ver todas las reseñas en Google Maps",
+    "items": [
+      { "name": "María García López", "date": "Marzo 2026", "text": "¡Un puerto increíble! Las vistas de Dalt Vila desde el paseo marítimo son espectaculares. Perfecto para paseos al atardecer, y la paella de los restaurantes del paseo es excelente." },
+      { "name": "Carlos Ruiz Martín", "date": "Febrero 2026", "text": "El mejor lugar de Ibiza para un paseo al atardecer. Los superyates impresionan de cerca. Cogimos el ferri a Formentera desde aquí: una excursión inolvidable." },
+      { "name": "Sophie Dubois", "date": "Enero 2026", "text": "Una marina preciosa con vistas impresionantes. El casco antiguo elevándose tras el puerto crea una atmósfera mágica. Gran variedad de bares y cafeterías." },
+      { "name": "Thomas Weber", "date": "Diciembre 2025", "text": "Lo visitamos en invierno y sigue siendo impresionante. Mucho más tranquilo que en verano. La subida a Dalt Vila desde el puerto es imprescindible." },
+      { "name": "陳美玲", "date": "Noviembre 2025", "text": "El puerto es el alma de Ibiza. Pasamos tres noches disfrutando de diferentes restaurantes. El Monumento a los Corsarios es fascinante: una pieza única de historia." },
+      { "name": "James Mitchell", "date": "Octubre 2025", "text": "Una zona portuaria estupenda con mucho que ver y hacer. Reservamos un crucero en catamarán al atardecer: lo mejor de nuestras vacaciones." },
+      { "name": "Ana Fernández", "date": "Septiembre 2025", "text": "Uno de los puertos más bonitos del Mediterráneo. El contraste entre los yates modernos y la ciudad amurallada es increíble. ¡Visita obligada!" },
+      { "name": "Pierre Lefèvre", "date": "Agosto 2025", "text": "Un lugar mágico, especialmente al atardecer. Los mercadillos nocturnos junto a las murallas son perfectos para encontrar recuerdos únicos. Ambiente bohemio en estado puro." }
+    ]
+  },
+  "practical": {
+    "title": "Información Práctica",
+    "address": {
+      "label": "Dirección",
+      "value": "Avinguda de Santa Eulària des Riu, 17, 07800 Eivissa, Illes Balears, Spain"
+    },
+    "hours": {
+      "label": "Horario de apertura",
+      "value": "Abierto las 24 horas — Zona de acceso público. Los establecimientos comerciales y restaurantes suelen abrir desde la mañana hasta bien entrada la noche."
+    },
+    "transport": {
+      "label": "Cómo llegar",
+      "value": "Desde el Aeropuerto de Ibiza (IBZ): ~10-15 min en taxi (~17 €) o ~30 min en autobús público."
+    },
+    "parking": {
+      "label": "Aparcamiento",
+      "value": "Aparcamiento gratuito y de pago disponible. Muy limitado en temporada alta (junio-septiembre) — se recomienda transporte público o taxi."
+    },
+    "accessibility": {
+      "label": "Accesibilidad",
+      "value": "Entrada y aparcamiento accesibles para sillas de ruedas. Se aceptan pagos NFC, tarjetas de crédito y débito."
+    },
+    "phone": {
+      "label": "Teléfono",
+      "value": "+34 971 31 06 11"
+    }
+  },
+  "map": {
+    "title": "Cómo Llegar",
+    "openMaps": "Abrir en Google Maps"
+  },
+  "references": {
+    "title": "Datos y Referencias",
+    "disclaimer": "Este sitio es un portal independiente de información turística de terceros. La información proviene de recursos públicos (oficinas de turismo y Wikipedia) y datos base de Google Maps.",
+    "sources": {
+      "google": "Google Maps — Valoraciones, reseñas y datos geográficos",
+      "unsplash": "Unsplash — Fotografías utilizadas en la galería",
+      "wikipedia": "Wikipedia — Información histórica y cultural"
+    }
+  },
+  "footer": {
+    "support": "Para soporte técnico de este sitio web, contacta con: claritleonelmnicol@gmail.com",
+    "copyright": "© 2026 Port d'Eivissa · Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies"
+  },
+  "privacy": {
+    "backHome": "Volver al Inicio",
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Esta Política de Privacidad explica cómo ibzharbour.com recopila, utiliza y protege tu información personal cuando visitas nuestro sitio web.",
+    "sections": [
+      {
+        "title": "Información que Recopilamos",
+        "content": "Recopilamos los datos mínimos necesarios para ofrecer nuestros servicios. Esto puede incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporciones voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "title": "Cómo Utilizamos tu Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido y la experiencia de usuario del sitio web, analizar el tráfico y los patrones de uso, responder consultas y cumplir con las obligaciones legales."
+      },
+      {
+        "title": "Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para fotografías). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "title": "Tus Derechos",
+        "content": "Según el RGPD y la normativa aplicable, tienes derecho a: acceder a tus datos personales, solicitar su corrección o eliminación, oponerte al tratamiento y presentar una reclamación ante una autoridad de control."
+      },
+      {
+        "title": "Contacto",
+        "content": "Para consultas relacionadas con la privacidad, contacta con nosotros en: claritleonelmnicol@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Volver al Inicio",
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Al acceder y utilizar ibzharbour.com, aceptas quedar vinculado por estos Términos de Servicio.",
+    "sections": [
+      {
+        "title": "Uso del Contenido",
+        "content": "Todo el contenido de este sitio se proporciona únicamente con fines informativos. Somos un sitio independiente de información turística de terceros y no estamos afiliados a la administración del Puerto de Ibiza, a ninguna entidad gubernamental ni a ningún operador comercial."
+      },
+      {
+        "title": "Exactitud de la Información",
+        "content": "Nos esforzamos por mantener la información precisa y actualizada, pero no podemos garantizar su integridad ni exactitud. Los horarios, precios y condiciones pueden cambiar sin previo aviso. Verifica siempre los datos importantes con fuentes oficiales antes de tu visita."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "El diseño del sitio web y el contenido original están protegidos por derechos de autor. Las fotografías proceden de Unsplash bajo sus términos de licencia. Los datos de Google Maps se utilizan conforme a las Condiciones de Servicio de Google."
+      },
+      {
+        "title": "Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona «tal cual» sin garantías. No somos responsables de ningún daño derivado del uso de la información de este sitio, incluyendo, entre otros, decisiones de viaje basadas en nuestro contenido."
+      },
+      {
+        "title": "Contacto",
+        "content": "Para preguntas sobre estos términos, contacta con: claritleonelmnicol@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Volver al Inicio",
+    "title": "Configuración de Cookies",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Utilizamos cookies para mejorar tu experiencia de navegación. Puedes gestionar tus preferencias a continuación.",
+    "necessary": {
+      "title": "Cookies Esenciales",
+      "description": "Necesarias para el correcto funcionamiento del sitio web. No se pueden desactivar.",
+      "status": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "preferences": {
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan tus ajustes como el idioma y las preferencias de tema.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar publicidad relevante y medir la eficacia de las campañas.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "save": "Guardar Preferencias"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}

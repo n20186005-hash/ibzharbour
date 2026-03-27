@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Port d'Eivissa — Port d'Ibiza, Îles Baléares",
+    "description": "Guide complet du port d'Ibiza : marina de yachts, promenade maritime, Dalt Vila, ferries vers Formentera, restaurants et vie nocturne."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Port d'Eivissa",
+    "subtitle": "Le port emblématique d'Ibiza, cœur de la Méditerranée",
+    "rating": "4.5/5",
+    "reviewCount": "23,759",
+    "reviewLabel": "avis",
+    "hours": "Ouvert 24h/24",
+    "openMaps": "Ouvrir dans Google Maps",
+    "tags": ["Port", "Yachts", "Méditerranée", "Dalt Vila", "Croisières", "Coucher de soleil", "Formentera", "Gastronomie"]
+  },
+  "about": {
+    "title": "Découvrir le Port",
+    "description": "Situé au cœur de la ville d'Ibiza, dans les îles Baléares espagnoles, le port d'Ibiza (Port d'Eivissa) est bien plus qu'un refuge pour yachts de luxe : c'est le carrefour idéal entre histoire millénaire et vie méditerranéenne vibrante. Que vous recherchiez des tapas authentiques, des croisières au coucher du soleil ou la vieille ville classée au patrimoine mondial, c'est le point de départ parfait.",
+    "highlights": {
+      "title": "Points forts",
+      "items": [
+        "Marina de yachts de luxe et promenade maritime",
+        "Dalt Vila, vieille ville classée au patrimoine mondial de l'UNESCO",
+        "Point de départ pour les excursions à Formentera",
+        "Restaurants, boutiques et vie nocturne animée",
+        "Accès public gratuit 24h/24 avec vues sur la Méditerranée",
+        "Port de croisière avec boutiques, bars et restaurants"
+      ]
+    },
+    "keywords": {
+      "title": "Mots-clés associés"
+    },
+    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+  },
+  "explore": {
+    "title": "Explorez le Cœur Maritime d'Ibiza",
+    "items": [
+      {
+        "title": "Promenade de la Marina (Marina Port Ibiza)",
+        "description": "L'un des quartiers les plus luxueux d'Ibiza. Flânez le long du front de mer en admirant de somptueux superyachts, parmi les boutiques haut de gamme, les cafés en terrasse et les bars à cocktails. À découvrir de préférence à l'heure dorée, quand la lumière du couchant dore la mer et les coques blanches."
+      },
+      {
+        "title": "Dalt Vila — Vieille Ville classée au Patrimoine Mondial",
+        "description": "La toile de fond majestueuse du port est l'antique Dalt Vila. Franchissez le Portal de ses Taules, avec son imposant arc de pierre et son pont-levis, pour pénétrer dans un labyrinthe médiéval de ruelles pavées. Grimpez jusqu'à la cathédrale de Santa Maria pour une vue panoramique sur l'ensemble du port et la Méditerranée."
+      },
+      {
+        "title": "Monument aux Corsaires",
+        "description": "Sur la promenade du port se dresse le seul monument au monde rendant hommage aux corsaires. Au XVIe siècle, les habitants d'Ibiza formèrent des flottes armées autorisées pour défendre l'île contre les menaces maritimes. Cet obélisque honore ceux qui protégèrent Ibiza."
+      },
+      {
+        "title": "Excursions en Bateau et Cabotage",
+        "description": "Le port d'Ibiza est un centre maritime majeur. Réservez des croisières en catamaran au coucher du soleil, affrétez un yacht privé ou prenez le ferry pour Formentera — les « Caraïbes de la Méditerranée » — à quelques minutes de navigation, idéale pour une excursion à la journée."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie Photos",
+    "subtitle": "Vues du port et de ses environs",
+    "source": "Photo : Google Maps (dernière mise à jour : 2026). Pour la galerie complète, cliquez ci-dessous.",
+    "viewAll": "Voir toutes les photos sur Google Maps",
+    "images": [
+      { "alt": "Panorama du port d'Ibiza", "caption": "Vue panoramique du port" },
+      { "alt": "Yachts de luxe", "caption": "Yachts de la marina" },
+      { "alt": "Vieille ville de Dalt Vila", "caption": "Silhouette de Dalt Vila" },
+      { "alt": "Coucher de soleil sur le port", "caption": "Coucher de soleil méditerranéen" },
+      { "alt": "Restaurants en bord de mer", "caption": "Restaurants face à la mer" },
+      { "alt": "Ferry vers Formentera", "caption": "Terminal des ferries" },
+      { "alt": "Promenade du port", "caption": "Promenade du soir" },
+      { "alt": "Vue sur la ville d'Ibiza", "caption": "La ville d'Ibiza vue du port" }
+    ]
+  },
+  "reviews": {
+    "title": "Avis de Visiteurs Vérifiés",
+    "declaration": "Notes et avis provenant de Google Maps (dernière mise à jour : 2026). Nous présentons uniquement une sélection d'avis vérifiés bien notés. Pour consulter l'ensemble des avis les plus récents, cliquez sur le lien ci-dessous.",
+    "seeAll": "Voir tous les avis sur Google Maps",
+    "items": [
+      { "name": "María García López", "date": "Mars 2026", "text": "Un port magnifique ! La vue sur Dalt Vila depuis le front de mer est spectaculaire. Parfait pour les promenades du soir — les restaurants de la promenade servent une excellente paella." },
+      { "name": "Carlos Ruiz Martín", "date": "Février 2026", "text": "Le meilleur endroit d'Ibiza pour une balade au coucher du soleil. Les superyachts sont impressionnants de près. Nous avons pris le ferry pour Formentera depuis ici : une excursion inoubliable." },
+      { "name": "Sophie Dubois", "date": "Janvier 2026", "text": "Une très belle marina avec des vues superbes. La vieille ville qui s'élève derrière le port crée une atmosphère magique. Excellent choix de bars et de cafés." },
+      { "name": "Thomas Weber", "date": "Décembre 2025", "text": "Visite en hiver et toujours aussi impressionnant. Bien plus calme qu'en été. La montée vers Dalt Vila depuis le port est incontournable — le stationnement gratuit est facile à trouver hors saison." },
+      { "name": "陳美玲", "date": "Novembre 2025", "text": "Le port est le cœur d'Ibiza. Nous y avons passé trois soirées dans différents restaurants. Le Monument aux Corsaires est fascinant : une pièce d'histoire unique." },
+      { "name": "James Mitchell", "date": "Octobre 2025", "text": "Un quartier portuaire superbe avec beaucoup à voir et à faire. Nous avons réservé une croisière en catamaran au coucher du soleil depuis ici : le moment fort de nos vacances." },
+      { "name": "Ana Fernández", "date": "Septembre 2025", "text": "L'un des plus beaux ports de la Méditerranée. Le contraste entre les yachts modernes et la cité fortifiée est saisissant. À ne pas manquer !" },
+      { "name": "Pierre Lefèvre", "date": "Août 2025", "text": "Un lieu magique, surtout au coucher du soleil. Les marchés nocturnes près des remparts sont parfaits pour dénicher des souvenirs uniques. L'ambiance bohème à son meilleur." }
+    ]
+  },
+  "practical": {
+    "title": "Informations Pratiques",
+    "address": {
+      "label": "Adresse",
+      "value": "Avinguda de Santa Eulària des Riu, 17, 07800 Eivissa, Illes Balears, Spain"
+    },
+    "hours": {
+      "label": "Horaires d'ouverture",
+      "value": "Ouvert 24h/24 — Espace d'accès public. Les commerces et restaurants ouvrent généralement du matin jusqu'à tard dans la nuit."
+    },
+    "transport": {
+      "label": "Comment s'y rendre",
+      "value": "Depuis l'aéroport d'Ibiza (IBZ) : ~10-15 min en taxi (~17 €) ou ~30 min en bus."
+    },
+    "parking": {
+      "label": "Stationnement",
+      "value": "Stationnement gratuit et payant disponible. Très limité en haute saison (juin-septembre) — transports en commun ou taxi recommandés."
+    },
+    "accessibility": {
+      "label": "Accessibilité",
+      "value": "Entrée et stationnement accessibles en fauteuil roulant. Paiement mobile NFC, cartes de crédit et de débit acceptées."
+    },
+    "phone": {
+      "label": "Téléphone",
+      "value": "+34 971 31 06 11"
+    }
+  },
+  "map": {
+    "title": "Comment s'y Rendre",
+    "openMaps": "Ouvrir dans Google Maps"
+  },
+  "references": {
+    "title": "Données et Références",
+    "disclaimer": "Ce site est un portail d'information touristique indépendant. Les informations proviennent de ressources publiques (offices de tourisme et Wikipédia) et des données de base de Google Maps.",
+    "sources": {
+      "google": "Google Maps — Notes, avis et données géographiques",
+      "unsplash": "Unsplash — Photographies utilisées dans la galerie",
+      "wikipedia": "Wikipédia — Informations historiques et culturelles"
+    }
+  },
+  "footer": {
+    "support": "Pour le support technique de ce site web, veuillez contacter : claritleonelmnicol@gmail.com",
+    "copyright": "© 2026 Port d'Eivissa · Tous droits réservés",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Paramètres des Cookies"
+  },
+  "privacy": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "Cette Politique de Confidentialité explique comment ibzharbour.com collecte, utilise et protège vos informations personnelles lorsque vous visitez notre site web.",
+    "sections": [
+      {
+        "title": "Informations que Nous Collectons",
+        "content": "Nous collectons le minimum de données nécessaire à la fourniture de nos services. Cela peut inclure : des données de navigation (adresse IP, type de navigateur, pages visitées), des cookies et technologies similaires, ainsi que toute information que vous fournissez volontairement via les formulaires de contact ou par e-mail."
+      },
+      {
+        "title": "Comment Nous Utilisons Vos Informations",
+        "content": "Nous utilisons les informations collectées pour : améliorer le contenu et l'expérience utilisateur du site, analyser le trafic et les habitudes d'utilisation, répondre aux demandes et respecter nos obligations légales."
+      },
+      {
+        "title": "Services Tiers",
+        "content": "Notre site web peut utiliser des services tiers tels que Google Maps (pour les cartes intégrées et les données de localisation), Google Analytics (pour l'analyse du trafic) et Unsplash (pour les photographies). Ces services disposent de leurs propres politiques de confidentialité."
+      },
+      {
+        "title": "Vos Droits",
+        "content": "En vertu du RGPD et des réglementations applicables, vous avez le droit de : accéder à vos données personnelles, demander leur rectification ou leur suppression, vous opposer au traitement et déposer une plainte auprès d'une autorité de contrôle."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question relative à la confidentialité, contactez-nous à : claritleonelmnicol@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "En accédant à ibzharbour.com et en l'utilisant, vous acceptez d'être lié par les présentes Conditions d'Utilisation.",
+    "sections": [
+      {
+        "title": "Utilisation du Contenu",
+        "content": "L'ensemble du contenu de ce site est fourni à titre informatif uniquement. Nous sommes un site indépendant d'information touristique et ne sommes affiliés ni à la gestion du port d'Ibiza, ni à aucune entité gouvernementale ou opérateur commercial."
+      },
+      {
+        "title": "Exactitude des Informations",
+        "content": "Nous nous efforçons de maintenir les informations exactes et à jour, mais ne pouvons garantir leur exhaustivité ni leur exactitude. Les horaires, les tarifs et les conditions peuvent changer sans préavis. Vérifiez toujours les informations essentielles auprès de sources officielles avant votre visite."
+      },
+      {
+        "title": "Propriété Intellectuelle",
+        "content": "La conception du site et le contenu original sont protégés par le droit d'auteur. Les photographies proviennent d'Unsplash selon leurs conditions de licence. Les données Google Maps sont utilisées conformément aux Conditions d'Utilisation de Google."
+      },
+      {
+        "title": "Limitation de Responsabilité",
+        "content": "Ce site est fourni « en l'état » sans garantie. Nous ne sommes pas responsables des dommages résultant de l'utilisation des informations de ce site, y compris les décisions de voyage basées sur notre contenu."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question concernant ces conditions, contactez : claritleonelmnicol@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Paramètres des Cookies",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "Nous utilisons des cookies pour améliorer votre expérience de navigation. Vous pouvez gérer vos préférences ci-dessous.",
+    "necessary": {
+      "title": "Cookies Essentiels",
+      "description": "Nécessaires au bon fonctionnement du site web. Ils ne peuvent pas être désactivés.",
+      "status": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Cookies Analytiques",
+      "description": "Nous aident à comprendre comment les visiteurs interagissent avec notre site en collectant des données d'utilisation anonymes.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "preferences": {
+      "title": "Cookies de Préférences",
+      "description": "Mémorisent vos paramètres tels que la langue et les préférences de thème.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "marketing": {
+      "title": "Cookies Marketing",
+      "description": "Utilisés pour diffuser des publicités pertinentes et mesurer l'efficacité des campagnes.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "save": "Enregistrer les Préférences"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}

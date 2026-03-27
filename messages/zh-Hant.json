@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Port d'Eivissa — 伊維薩港，巴利阿里群島",
+    "description": "伊維薩港完整指南：豪華遊艇碼頭、海濱長廊、達爾特維拉古城、福門特拉島渡輪、餐廳與夜生活。"
+  },
+  "header": {
+    "home": "首頁",
+    "gallery": "相簿",
+    "reviews": "評論",
+    "map": "地圖",
+    "privacy": "隱私權",
+    "terms": "服務條款",
+    "cookies": "Cookie 設定"
+  },
+  "hero": {
+    "title": "Port d'Eivissa",
+    "subtitle": "伊維薩的標誌性港口，地中海的心臟",
+    "rating": "4.5/5",
+    "reviewCount": "23,759",
+    "reviewLabel": "則評論",
+    "hours": "全天候開放",
+    "openMaps": "在 Google 地圖上開啟",
+    "tags": ["港口", "遊艇", "地中海", "達爾特維拉", "郵輪", "日落", "福門特拉島", "美食"]
+  },
+  "about": {
+    "title": "探索港口",
+    "description": "伊維薩港（Port d'Eivissa）坐落於西班牙巴利阿里群島伊維薩市的中心地帶，不僅是豪華遊艇的天堂，更是千年歷史與現代地中海生活的完美交匯點。無論您想品嚐道地小食、乘船欣賞日落，還是探訪聯合國教科文組織世界遺產古城，這裡都是您的理想起點。",
+    "highlights": {
+      "title": "亮點",
+      "items": [
+        "豪華遊艇碼頭與海濱長廊",
+        "聯合國教科文組織世界遺產——達爾特維拉古城",
+        "前往福門特拉島一日遊的出發點",
+        "豐富多彩的餐飲、購物與夜生活",
+        "全天候免費開放，盡享地中海美景",
+        "設有商店、酒吧和餐廳的郵輪港口"
+      ]
+    },
+    "keywords": {
+      "title": "相關關鍵詞"
+    },
+    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+  },
+  "explore": {
+    "title": "探索伊維薩的海洋之心",
+    "items": [
+      {
+        "title": "碼頭長廊（Marina Port Ibiza）",
+        "description": "伊維薩最奢華的區域之一。沿著海濱漫步，近距離欣賞壯觀的超級遊艇，兩旁林立著高級精品店、露天咖啡館和酒吧。黃金時段造訪最為迷人，夕陽將大海和白色船身染成一片金黃。"
+      },
+      {
+        "title": "達爾特維拉——聯合國教科文組織世界遺產古城",
+        "description": "港口背後矗立著壯麗的達爾特維拉古城。穿過宏偉的塞斯陶萊斯門（Portal de ses Taules），步入鋪滿鵝卵石的中世紀迷宮街巷。登上聖瑪利亞大教堂，將整座港口和地中海的全景盡收眼底。"
+      },
+      {
+        "title": "海盜紀念碑",
+        "description": "港口長廊上矗立著世界上唯一一座向海盜致敬的紀念碑。十六世紀時，當地居民組建了獲授權的武裝艦隊，抵禦海上威脅。這座方尖碑紀念的正是那些保衛伊維薩的勇士。"
+      },
+      {
+        "title": "乘船遊覽與跳島之旅",
+        "description": "伊維薩港是重要的海上交通樞紐。您可以預訂日落雙體船巡航、包租私人遊艇，或搭乘渡輪前往有「地中海加勒比」之稱的福門特拉島——僅需短暫船程，是完美的一日遊選擇。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "相簿",
+    "subtitle": "港口及周邊景觀",
+    "source": "照片來源：Google 地圖（最後更新：2026 年）。如需查看完整相簿，請點擊下方連結。",
+    "viewAll": "在 Google 地圖上查看所有照片",
+    "images": [
+      { "alt": "伊維薩港全景", "caption": "港口全景" },
+      { "alt": "豪華遊艇", "caption": "碼頭遊艇" },
+      { "alt": "達爾特維拉古城", "caption": "達爾特維拉天際線" },
+      { "alt": "港口日落", "caption": "地中海日落" },
+      { "alt": "海濱餐廳", "caption": "海邊餐廳" },
+      { "alt": "福門特拉島渡輪", "caption": "渡輪碼頭" },
+      { "alt": "港口長廊", "caption": "夜間長廊" },
+      { "alt": "伊維薩市景觀", "caption": "從港口眺望伊維薩市" }
+    ]
+  },
+  "reviews": {
+    "title": "真實遊客評論",
+    "declaration": "評分與評論來自 Google 地圖（最後更新：2026 年）。我們僅展示經過驗證的高評分精選評論。如需查看所有完整及最新評論，請點擊下方連結。",
+    "seeAll": "在 Google 地圖上查看所有評論",
+    "items": [
+      { "name": "María García López", "date": "2026 年 3 月", "text": "令人驚嘆的港口！從海濱眺望達爾特維拉的景色十分壯觀。非常適合傍晚散步和欣賞日落，長廊上的餐廳供應一流的海鮮飯。" },
+      { "name": "Carlos Ruiz Martín", "date": "2026 年 2 月", "text": "伊維薩最佳日落漫步地點。近距離觀賞超級遊艇非常震撼。我們從這裡搭渡輪去了福門特拉島，是一次難忘的一日遊。" },
+      { "name": "Sophie Dubois", "date": "2026 年 1 月", "text": "美麗的碼頭，景色迷人。古城在港口後方拔地而起，營造出夢幻般的氛圍。酒吧和咖啡館的選擇非常豐富。" },
+      { "name": "Thomas Weber", "date": "2025 年 12 月", "text": "冬季到訪依然令人印象深刻，比夏天安靜許多。從港口步行上達爾特維拉絕對不容錯過，淡季時免費停車很容易找到。" },
+      { "name": "陳美玲", "date": "2025 年 11 月", "text": "港口是伊維薩的靈魂。我們在這裡度過了三個夜晚，品嚐了不同的餐廳。海盜紀念碑非常有趣，是一段獨特的歷史。" },
+      { "name": "James Mitchell", "date": "2025 年 10 月", "text": "出色的港口區域，有很多值得探索的地方。我們從這裡預訂了日落雙體船巡航，是假期的最大亮點。不過夏天停車不太容易。" },
+      { "name": "Ana Fernández", "date": "2025 年 9 月", "text": "地中海最美的港口之一。現代遊艇與古老城牆之間的對比令人歎為觀止。絕對必訪！" },
+      { "name": "Pierre Lefèvre", "date": "2025 年 8 月", "text": "一個神奇的地方，尤其是日落時分。古城牆旁的夜市非常適合尋找獨特的紀念品。波希米亞風情淋漓盡致。" }
+    ]
+  },
+  "practical": {
+    "title": "實用資訊",
+    "address": {
+      "label": "地址",
+      "value": "Avinguda de Santa Eulària des Riu, 17, 07800 Eivissa, Illes Balears, Spain"
+    },
+    "hours": {
+      "label": "開放時間",
+      "value": "全天候開放——公共區域。商業場所和餐廳通常從早上營業至深夜。"
+    },
+    "transport": {
+      "label": "交通方式",
+      "value": "從伊維薩機場（IBZ）出發：搭乘計程車約 10-15 分鐘（約 €17），或搭乘公車約 30 分鐘。"
+    },
+    "parking": {
+      "label": "停車資訊",
+      "value": "提供免費及收費停車位。旺季（六月至九月）車位非常有限，建議搭乘公共交通工具或計程車。"
+    },
+    "accessibility": {
+      "label": "無障礙設施",
+      "value": "設有無障礙入口及停車位。支援 NFC 行動支付、信用卡及簽帳卡付款。"
+    },
+    "phone": {
+      "label": "電話",
+      "value": "+34 971 31 06 11"
+    }
+  },
+  "map": {
+    "title": "如何到達",
+    "openMaps": "在 Google 地圖上開啟"
+  },
+  "references": {
+    "title": "資料與參考來源",
+    "disclaimer": "本網站為獨立的第三方旅遊資訊入口網站。資訊來自公共資源（旅遊局及維基百科）以及 Google 地圖的基礎資料。",
+    "sources": {
+      "google": "Google 地圖——評分、評論及地理資料",
+      "unsplash": "Unsplash——相簿中使用的照片",
+      "wikipedia": "維基百科——歷史與文化資訊"
+    }
+  },
+  "footer": {
+    "support": "如需本網站技術支援，請聯繫：claritleonelmnicol@gmail.com",
+    "copyright": "© 2026 Port d'Eivissa · 版權所有",
+    "privacy": "隱私權政策",
+    "terms": "服務條款",
+    "cookies": "Cookie 設定"
+  },
+  "privacy": {
+    "backHome": "返回首頁",
+    "title": "隱私權政策",
+    "lastUpdated": "最後更新：2026 年 3 月",
+    "intro": "本隱私權政策說明 ibzharbour.com 在您造訪本網站時如何收集、使用及保護您的個人資訊。",
+    "sections": [
+      {
+        "title": "我們收集的資訊",
+        "content": "我們僅收集提供服務所需的最少資料。這可能包括：瀏覽資料（IP 位址、瀏覽器類型、造訪頁面）、Cookie 及類似技術，以及您透過聯絡表單或電子郵件自願提供的任何資訊。"
+      },
+      {
+        "title": "我們如何使用您的資訊",
+        "content": "我們使用所收集的資訊來：改善網站內容與使用者體驗、分析網站流量與使用模式、回覆查詢，以及遵守法律義務。"
+      },
+      {
+        "title": "第三方服務",
+        "content": "本網站可能使用第三方服務，例如 Google 地圖（用於嵌入地圖和位置資料）、Google Analytics（用於流量分析）和 Unsplash（用於照片）。這些服務各有其隱私權政策。"
+      },
+      {
+        "title": "您的權利",
+        "content": "根據 GDPR 及適用法規，您有權：存取您的個人資料、要求更正或刪除、反對處理，以及向監管機構提出投訴。"
+      },
+      {
+        "title": "聯繫方式",
+        "content": "如有隱私權相關問題，請聯繫我們：claritleonelmnicol@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "返回首頁",
+    "title": "服務條款",
+    "lastUpdated": "最後更新：2026 年 3 月",
+    "intro": "使用及存取 ibzharbour.com 即表示您同意受本服務條款約束。",
+    "sections": [
+      {
+        "title": "內容使用",
+        "content": "本網站所有內容僅供資訊參考。我們是獨立的第三方旅遊資訊網站，與伊維薩港管理機構、任何政府機關或商業營運商均無關聯。"
+      },
+      {
+        "title": "資訊準確性",
+        "content": "我們致力於保持資訊的準確與及時，但無法保證其完整性或準確性。開放時間、價格及條件可能隨時變更，恕不另行通知。造訪前請務必向官方來源核實重要資訊。"
+      },
+      {
+        "title": "智慧財產權",
+        "content": "網站設計及原創內容受著作權保護。照片來自 Unsplash，依其授權條款使用。Google 地圖資料依 Google 服務條款使用。"
+      },
+      {
+        "title": "責任限制",
+        "content": "本網站按「現狀」提供，不附任何保證。對於因使用本網站資訊（包括但不限於基於本網站內容所做的旅行決定）而產生的任何損害，我們概不負責。"
+      },
+      {
+        "title": "聯繫方式",
+        "content": "如對本條款有任何疑問，請聯繫：claritleonelmnicol@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "返回首頁",
+    "title": "Cookie 設定",
+    "lastUpdated": "最後更新：2026 年 3 月",
+    "intro": "我們使用 Cookie 來提升您的瀏覽體驗。您可以在下方管理您的偏好設定。",
+    "necessary": {
+      "title": "必要 Cookie",
+      "description": "網站正常運作所需，無法停用。",
+      "status": "始終啟用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "透過收集匿名使用資料，幫助我們了解訪客如何與網站互動。",
+      "enabled": "已啟用",
+      "disabled": "已停用"
+    },
+    "preferences": {
+      "title": "偏好設定 Cookie",
+      "description": "記住您的設定，例如語言和主題偏好。",
+      "enabled": "已啟用",
+      "disabled": "已停用"
+    },
+    "marketing": {
+      "title": "行銷 Cookie",
+      "description": "用於投放相關廣告並追蹤活動成效。",
+      "enabled": "已啟用",
+      "disabled": "已停用"
+    },
+    "save": "儲存偏好設定"
+  },
+  "theme": {
+    "light": "淺色",
+    "dark": "深色"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}

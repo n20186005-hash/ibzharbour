@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "title": "Port d'Eivissa — Ibiza Harbour, Balearic Islands",
+    "description": "Complete guide to Ibiza Harbour: yacht marina, waterfront promenade, Dalt Vila, Formentera ferries, restaurants and nightlife."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Port d'Eivissa",
+    "subtitle": "The iconic harbour of Ibiza, heart of the Mediterranean",
+    "rating": "4.5/5",
+    "reviewCount": "23,759",
+    "reviewLabel": "reviews",
+    "hours": "Open 24 hours",
+    "openMaps": "Open on Google Maps",
+    "tags": ["Harbour", "Yachts", "Mediterranean", "Dalt Vila", "Cruises", "Sunset", "Formentera", "Dining"]
+  },
+  "about": {
+    "title": "Discover the Harbour",
+    "description": "Located in the heart of Ibiza Town in Spain's Balearic Islands, Ibiza Harbour (Port d'Eivissa) is far more than a playground for luxury yachts — it's the perfect hub where ancient history meets vibrant Mediterranean life. Whether you're seeking authentic tapas, sunset boat cruises, or the UNESCO World Heritage old town, this is your ideal starting point.",
+    "highlights": {
+      "title": "Highlights",
+      "items": [
+        "Luxury yacht marina and waterfront promenade",
+        "UNESCO World Heritage Dalt Vila old town backdrop",
+        "Gateway to Formentera island day trips",
+        "Vibrant dining, shopping and nightlife scene",
+        "24/7 free public access with scenic Mediterranean views",
+        "Cruise ship port with shops, bars and restaurants"
+      ]
+    },
+    "keywords": {
+      "title": "Related Keywords"
+    },
+    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+  },
+  "explore": {
+    "title": "Explore Ibiza's Maritime Heart",
+    "items": [
+      {
+        "title": "Marina Promenade (Marina Port Ibiza)",
+        "description": "One of the most luxurious areas of Ibiza. Stroll along the waterfront admiring stunning superyachts while enjoying high-end boutiques, open-air cafés, and sunset cocktails. Best visited at golden hour when the light paints the sea and white hulls in gold."
+      },
+      {
+        "title": "Dalt Vila — UNESCO World Heritage Old Town",
+        "description": "The harbour's magnificent backdrop is the ancient Dalt Vila. Pass through the grand Portal de ses Taules — with its massive stone arch and drawbridge — to enter a medieval labyrinth of cobblestone streets. Climb to the Cathedral of Santa Maria for panoramic views of the entire harbour and Mediterranean."
+      },
+      {
+        "title": "Corsair Monument",
+        "description": "On the harbour promenade stands the world's only monument honouring corsairs — officially licensed pirates. In the 16th century, locals formed armed fleets to defend the island against maritime threats. This obelisk commemorates those who protected Ibiza."
+      },
+      {
+        "title": "Boat Trips & Island Hopping",
+        "description": "Ibiza Harbour is a major maritime hub. Book catamaran sunset cruises, charter private yachts, or take the ferry to Formentera — the 'Caribbean of the Mediterranean' — just a short boat ride away, perfect for a day trip."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Views of the harbour and surroundings",
+    "source": "Photo: Google Maps (last updated: 2026). For full gallery, click below.",
+    "viewAll": "View all photos on Google Maps",
+    "images": [
+      { "alt": "Ibiza harbour panorama", "caption": "Harbour panoramic view" },
+      { "alt": "Luxury yachts", "caption": "Marina yachts" },
+      { "alt": "Dalt Vila old town", "caption": "Dalt Vila skyline" },
+      { "alt": "Sunset over harbour", "caption": "Mediterranean sunset" },
+      { "alt": "Waterfront dining", "caption": "Seaside restaurants" },
+      { "alt": "Formentera ferry", "caption": "Ferry terminal" },
+      { "alt": "Harbour promenade", "caption": "Evening promenade" },
+      { "alt": "Ibiza town view", "caption": "Ibiza Town from harbour" }
+    ]
+  },
+  "reviews": {
+    "title": "Real Visitor Reviews",
+    "declaration": "Ratings and reviews from Google Maps (last updated: 2026). We show only a selection of verified high-rated reviews. To see all complete and most recent reviews, click the link below.",
+    "seeAll": "See all reviews on Google Maps",
+    "items": [
+      { "name": "María García López", "date": "March 2026", "text": "Amazing harbour! The views of Dalt Vila from the waterfront are spectacular. Perfect for evening walks and sunset watching — the restaurants along the promenade serve excellent paella." },
+      { "name": "Carlos Ruiz Martín", "date": "February 2026", "text": "Best spot in Ibiza for a sunset stroll. The superyachts are incredible to see up close. We took the ferry to Formentera from here — unforgettable day trip." },
+      { "name": "Sophie Dubois", "date": "January 2026", "text": "Beautiful marina with stunning views. The old town rising behind the harbour creates a magical atmosphere. Great selection of bars and cafés." },
+      { "name": "Thomas Weber", "date": "December 2025", "text": "Visited during winter and still impressive. Much quieter than summer. The walk up to Dalt Vila from the harbour is a must-do — free parking was easy to find off-season." },
+      { "name": "陳美玲", "date": "November 2025", "text": "The harbour is the heart of Ibiza. We spent three evenings here enjoying different restaurants. The Corsair Monument is fascinating — a unique piece of history." },
+      { "name": "James Mitchell", "date": "October 2025", "text": "Great harbour area with plenty to see and do. Booked a sunset catamaran cruise from here — highlight of our holiday. Parking is tough in summer though." },
+      { "name": "Ana Fernández", "date": "September 2025", "text": "One of the most beautiful harbours in the Mediterranean. The contrast between modern yachts and the ancient walled city is incredible. A must-visit!" },
+      { "name": "Pierre Lefèvre", "date": "August 2025", "text": "Magical place especially at sunset. The night markets near the old town walls are wonderful for unique souvenirs. Bohemian atmosphere at its best." }
+    ]
+  },
+  "practical": {
+    "title": "Practical Information",
+    "address": {
+      "label": "Address",
+      "value": "Avinguda de Santa Eulària des Riu, 17, 07800 Eivissa, Illes Balears, Spain"
+    },
+    "hours": {
+      "label": "Opening Hours",
+      "value": "Open 24 hours — Public access area. Commercial venues and restaurants typically open from morning until late night."
+    },
+    "transport": {
+      "label": "Getting There",
+      "value": "From Ibiza Airport (IBZ): ~10-15 min by taxi (~€17) or ~30 min by public bus."
+    },
+    "parking": {
+      "label": "Parking",
+      "value": "Free and paid parking available. Very limited in peak season (June–September) — public transport or taxi recommended."
+    },
+    "accessibility": {
+      "label": "Accessibility",
+      "value": "Wheelchair accessible entrance and parking. NFC mobile payment, credit and debit cards accepted."
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+34 971 31 06 11"
+    }
+  },
+  "map": {
+    "title": "How to Get Here",
+    "openMaps": "Open on Google Maps"
+  },
+  "references": {
+    "title": "Data & References",
+    "disclaimer": "This site is an independent third-party tourist information portal. Information is drawn from public resources (tourism offices and Wikipedia) and Google Maps baseline data.",
+    "sources": {
+      "google": "Google Maps — Ratings, reviews and geographic data",
+      "unsplash": "Unsplash — Photographs used in the gallery",
+      "wikipedia": "Wikipedia — Historical and cultural information"
+    }
+  },
+  "footer": {
+    "support": "For technical support for this website, please contact: claritleonelmnicol@gmail.com",
+    "copyright": "© 2026 Port d'Eivissa · All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings"
+  },
+  "privacy": {
+    "backHome": "Back to Home",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "This Privacy Policy explains how ibzharbour.com collects, uses, and protects your personal information when you visit our website. We are committed to protecting your privacy and ensuring a safe browsing experience.",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "content": "We collect minimal data necessary to provide our services. This may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, and any information you voluntarily provide via contact forms or email. When you visit our site, we may also receive general geographic information based on your IP address to provide relevant content."
+      },
+      {
+        "title": "How We Use Your Information",
+        "content": "We use collected information to: improve website content and user experience, analyse site traffic and usage patterns, respond to inquiries, and comply with legal obligations. We may use aggregated, anonymised data for statistical purposes to understand how visitors use our site."
+      },
+      {
+        "title": "Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for photography). Additionally, we may display Google AdSense advertisements. These services have their own privacy policies and may collect data according to their terms."
+      },
+      {
+        "title": "Cookies and Tracking Technologies",
+        "content": "We use cookies to enhance your browsing experience. Essential cookies are required for basic site functionality. Analytics cookies help us understand how visitors interact with our website. Marketing cookies may be used to display relevant advertisements. You can manage your cookie preferences through our Cookie Settings page."
+      },
+      {
+        "title": "Your Rights",
+        "content": "Under GDPR and applicable regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority. You also have the right to withdraw consent at any time where processing is based on consent."
+      },
+      {
+        "title": "Data Security",
+        "content": "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee absolute security."
+      },
+      {
+        "title": "Children's Privacy",
+        "content": "Our website is not intended for children under 16 years of age. We do not knowingly collect personal information from children. If you believe we have inadvertently collected such information, please contact us immediately so we can take appropriate action."
+      },
+      {
+        "title": "Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. Any changes will be posted on this page with an updated revision date. We encourage you to review this policy periodically."
+      }
+    ],
+    "contactTitle": "Contact Us",
+    "contactContent": "If you have any questions or concerns regarding this Privacy Policy, please contact us at: claritleonelmnicol@gmail.com"
+  },
+  "terms": {
+    "backHome": "Back to Home",
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "By accessing and using ibzharbour.com, you agree to be bound by these Terms of Service. Please read these terms carefully before using our website. If you do not agree with any part of these terms, please do not use our site.",
+    "sections": [
+      {
+        "title": "Use of Content",
+        "content": "All content on this site is provided for informational purposes only. We are an independent third-party tourism information site and are not affiliated with Ibiza Harbour management, any government entity, or commercial operator. The information provided should not be considered as professional advice for any specific situation."
+      },
+      {
+        "title": "Accuracy of Information",
+        "content": "We strive to keep information accurate and up-to-date, but cannot guarantee completeness or accuracy. Opening hours, prices, and conditions may change without notice. Always verify critical details with official sources before your visit. We recommend contacting the relevant authorities or establishments directly for the most current information."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "Website design and original content are protected by copyright. Photographs are sourced from Unsplash under their licence terms or provided by users. Google Maps data is used under Google's Terms of Service. Any reproduction, distribution, or use of our content without explicit permission is prohibited."
+      },
+      {
+        "title": "External Links",
+        "content": "Our website may contain links to third-party websites. We are not responsible for the content, accuracy, or practices of any linked websites. The inclusion of external links does not imply endorsement of the linked sites or their content. Users should review the terms and privacy policies of any third-party sites they visit."
+      },
+      {
+        "title": "Limitation of Liability",
+        "content": "This website is provided 'as is' without warranties. We are not liable for any damages arising from the use of information on this site, including but not limited to travel decisions based on our content. This includes direct, indirect, incidental, or consequential damages. Users assume full responsibility for their use of the information provided."
+      },
+      {
+        "title": "User Conduct",
+        "content": "By using this website, you agree not to: use the site for any unlawful purpose, attempt to gain unauthorized access to any part of the site, interfere with the site's operation, or transmit any harmful code. We reserve the right to terminate access for users who violate these terms."
+      },
+      {
+        "title": "Governing Law",
+        "content": "These Terms of Service shall be governed by and construed in accordance with applicable laws. Any disputes arising from the use of this website shall be resolved through appropriate legal channels. If any provision of these terms is found to be unenforceable, the remaining provisions shall continue in effect."
+      }
+    ],
+    "contactTitle": "Contact Us",
+    "contactContent": "For questions about these terms, contact: claritleonelmnicol@gmail.com"
+  },
+  "cookieSettings": {
+    "backHome": "Back to Home",
+    "title": "Cookie Settings",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "We use cookies to enhance your browsing experience. You can manage your preferences below.",
+    "necessary": {
+      "title": "Essential Cookies",
+      "description": "Required for the website to function properly. These cannot be disabled.",
+      "status": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "Remember your settings such as language and theme preferences.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to deliver relevant advertisements and track campaign effectiveness.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "save": "Save Preferences"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}
