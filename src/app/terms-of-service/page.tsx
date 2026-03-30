@@ -1,5 +1,5 @@
-import {redirect} from 'next/navigation';
+import {permanentRedirect} from 'next/navigation';
 
 export default function TermsOfServiceRedirectPage() {
-  redirect('/es/terms-of-service');
+  permanentRedirect('/es/terms-of-service');
 }

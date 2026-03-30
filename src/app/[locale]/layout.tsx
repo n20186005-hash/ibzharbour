@@ -14,21 +14,11 @@ export function generateStaticParams() {
 export async function generateMetadata({params: {locale}}: {params: {locale: string}}) {
   const t = await getTranslations({locale, namespace: 'meta'});
   const baseUrl = 'https://ibzharbour.com';
-  const localePath = `/${locale}`;
 
   return {
+    metadataBase: new URL(baseUrl),
     title: t('title'),
-    description: t('description'),
-    alternates: {
-      canonical: `${baseUrl}${localePath}`,
-      languages: {
-        'es': `${baseUrl}/es`,
-        'en': `${baseUrl}/en`,
-        'fr': `${baseUrl}/fr`,
-        'zh-Hant': `${baseUrl}/zh-Hant`,
-        'x-default': `${baseUrl}/`
-      }
-    }
+    description: t('description')
   };
 }
 

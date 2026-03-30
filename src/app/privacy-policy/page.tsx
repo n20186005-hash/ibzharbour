@@ -1,5 +1,5 @@
-import {redirect} from 'next/navigation';
+import {permanentRedirect} from 'next/navigation';
 
 export default function PrivacyPolicyRedirectPage() {
-  redirect('/es/privacy-policy');
+  permanentRedirect('/es/privacy-policy');
 }

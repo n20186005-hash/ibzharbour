@@ -1,5 +1,5 @@
-import {redirect} from 'next/navigation';
+import {permanentRedirect} from 'next/navigation';
 
 export default function CookieSettingsRedirectPage() {
-  redirect('/es/cookie-settings');
+  permanentRedirect('/es/cookie-settings');
 }

@@ -1,4 +1,4 @@
-import {notFound, redirect} from 'next/navigation';
+import {notFound, permanentRedirect} from 'next/navigation';
 import {routing} from '@/i18n/routing';
 
 export default function LocaleRedirectPage({
@@ -10,5 +10,6 @@ export default function LocaleRedirectPage({
     notFound();
   }
 
-  redirect(`/${targetLocale}`);
+  // Use 301 permanent redirect for SEO
+  permanentRedirect(`/${targetLocale}`);
 }

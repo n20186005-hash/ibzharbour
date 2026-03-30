@@ -14,14 +14,14 @@ export default function middleware(request: NextRequest) {
 
   if (policyRoutes.has(normalizedPathname)) {
     const url = new URL(`/${defaultLocale}${normalizedPathname}${search}`, request.url);
-    return NextResponse.redirect(url, 308);
+    return NextResponse.redirect(url, 301);
   }
 
   if (segments.length >= 2 && locales.has(segments[0] as any) && locales.has(segments[1] as any)) {
     const [, targetLocale, ...rest] = segments;
     const normalizedPath = `/${targetLocale}${rest.length ? `/${rest.join('/')}` : ''}`;
     const url = new URL(`${normalizedPath}${search}`, request.url);
-    return NextResponse.redirect(url, 308);
+    return NextResponse.redirect(url, 301);
   }
 
   return handleI18nRouting(request);

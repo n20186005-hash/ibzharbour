@@ -1,6 +1,26 @@
-'use client';
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
+import { getTranslations } from 'next-intl/server';
+
+export async function generateMetadata({params: {locale}}: {params: {locale: string}}) {
+  const t = await getTranslations({locale, namespace: 'terms'});
+  const baseUrl = 'https://ibzharbour.com';
+  const path = '/terms-of-service';
+  
+  return {
+    title: t('title'),
+    alternates: {
+      canonical: `${baseUrl}/${locale}${path}`,
+      languages: {
+        'es': `${baseUrl}/es${path}`,
+        'en': `${baseUrl}/en${path}`,
+        'fr': `${baseUrl}/fr${path}`,
+        'zh-Hant': `${baseUrl}/zh-Hant${path}`,
+        'x-default': `${baseUrl}${path}`
+      }
+    }
+  };
+}
 
 export default function TermsOfService() {
   const t = useTranslations('terms');
