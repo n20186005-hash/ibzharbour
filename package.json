@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "opennextjs-cloudflare build",
+    "build": "next build && opennextjs-cloudflare build --skipNextBuild",
     "start": "next start",
-    "deploy": "opennextjs-cloudflare deploy",
-    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview"
+    "deploy": "wrangler deploy",
+    "preview": "next build && opennextjs-cloudflare build --skipNextBuild && opennextjs-cloudflare preview"
   },
   "dependencies": {
     "client-only": "^0.0.1",
