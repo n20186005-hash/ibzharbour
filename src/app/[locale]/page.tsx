@@ -6,9 +6,11 @@ import Reviews from '@/components/Reviews';
 import Practical from '@/components/Practical';
 import MapEmbed from '@/components/MapEmbed';
 import References from '@/components/References';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 
-export async function generateMetadata({params: {locale}}: {params: {locale: string}}) {
+export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
+  const {locale} = await params;
+  setRequestLocale(locale);
   const baseUrl = 'https://ibzharbour.com';
   const path = '';
   

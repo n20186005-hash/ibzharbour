@@ -1,8 +1,10 @@
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 
-export async function generateMetadata({params: {locale}}: {params: {locale: string}}) {
+export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
+  const {locale} = await params;
+  setRequestLocale(locale);
   const t = await getTranslations({locale, namespace: 'privacy'});
   const baseUrl = 'https://ibzharbour.com';
   const path = '/privacy-policy';
@@ -23,6 +25,8 @@ export async function generateMetadata({params: {locale}}: {params: {locale: str
 }
 
 export default function PrivacyPolicy() {
+  const locale = useLocale();
+  setRequestLocale(locale);
   const t = useTranslations('privacy');
   const sections = [0, 1, 2, 3, 4, 5, 6, 7];
 

@@ -1,11 +1,14 @@
 import {notFound, permanentRedirect} from 'next/navigation';
+import {setRequestLocale} from 'next-intl/server';
 import {routing} from '@/i18n/routing';
 
-export default function LocaleRedirectPage({
-  params: {targetLocale}
+export default async function LocaleRedirectPage({
+  params
 }: {
-  params: {targetLocale: string};
+  params: Promise<{targetLocale: string}>;
 }) {
+  const {targetLocale} = await params;
+  setRequestLocale(targetLocale);
   if (!routing.locales.includes(targetLocale as any)) {
     notFound();
   }
