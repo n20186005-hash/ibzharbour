@@ -1,6 +1,7 @@
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Explore from '@/components/Explore';
+import SeoGuidesSection from '@/components/SeoGuidesSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import Practical from '@/components/Practical';
@@ -56,10 +57,8 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       'https://www.ibzharbour.com/',
       'https://maps.app.goo.gl/3g3UaPpcdnbCeZxX7'
     ],
-    publicAccess: true,
     touristType: ['Cruise passengers', 'Ferry passengers', 'Sightseers'],
     hasMap: 'https://maps.app.goo.gl/3g3UaPpcdnbCeZxX7',
-    availableLanguage: ['es', 'en', 'fr', 'zh-Hant'],
     additionalProperty: [
       {
         '@type': 'PropertyValue',
@@ -83,6 +82,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       <Hero />
       <About />
       <Explore />
+      <SeoGuidesSection />
       <Gallery />
       <Reviews />
       <Practical />

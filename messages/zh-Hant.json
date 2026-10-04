@@ -1,68 +1,84 @@
 {
   "meta": {
-    "title": "Port d'Eivissa — 伊維薩港，巴利阿里群島",
-    "description": "伊維薩港完整指南：豪華遊艇碼頭、海濱長廊、達爾特維拉古城、福門特拉島渡輪、餐廳與夜生活。"
+    "title": "伊維薩港 Ibiza Harbour（Port d'Eivissa）- 交通、渡輪與 Dalt Vila 指南",
+    "description": "Ibiza Harbour（Port d'Eivissa）旅遊指南，整理渡輪、碼頭區、Dalt Vila 動線、地圖與實用資訊。"
   },
   "header": {
     "home": "首頁",
     "gallery": "相簿",
-    "reviews": "評論",
+    "reviews": "評分",
     "map": "地圖",
     "privacy": "隱私權",
     "terms": "服務條款",
     "cookies": "Cookie 設定"
   },
   "hero": {
-    "title": "Port d'Eivissa",
-    "subtitle": "伊維薩的標誌性港口，地中海的心臟",
+    "title": "伊維薩港 Ibiza Harbour",
+    "subtitle": "Port d'Eivissa 導覽：渡輪、遊艇碼頭與 Dalt Vila 景觀",
     "rating": "4.5/5",
-    "reviewCount": "23,759",
-    "reviewLabel": "則評論",
+    "reviewCount": "24,376",
+    "reviewLabel": "則 Google Maps 評論",
     "hours": "全天候開放",
     "openMaps": "在 Google 地圖上開啟",
-    "tags": ["港口", "遊艇", "地中海", "達爾特維拉", "郵輪", "日落", "福門特拉島", "美食"]
+    "tags": [
+      "港口",
+      "渡輪",
+      "Dalt Vila",
+      "郵輪",
+      "遊艇碼頭",
+      "Formentera",
+      "地圖",
+      "餐廳"
+    ]
   },
   "about": {
-    "title": "探索港口",
-    "description": "伊維薩港（Port d'Eivissa）坐落於西班牙巴利阿里群島伊維薩市的中心地帶，不僅是豪華遊艇的天堂，更是千年歷史與現代地中海生活的完美交匯點。無論您想品嚐道地小食、乘船欣賞日落，還是探訪聯合國教科文組織世界遺產古城，這裡都是您的理想起點。",
+    "title": "認識 Ibiza Harbour",
+    "description": "Ibiza Harbour 也就是 Port d'Eivissa，是伊維薩城最核心的海港區。這裡把遊艇碼頭、Formentera 渡輪、郵輪動線與前往 Dalt Vila 的步行路線串在一起，對第一次到訪的旅客來說，是同時安排港景、交通與老城散步最方便的起點。",
     "disclaimer": {
       "title": "本站說明",
-      "content": "本站為獨立的第三方旅遊科普資訊站，旨在提供客觀的港口與周邊遊覽建議，方便旅客快速了解景點背景、交通方式與參觀重點。頁面資訊整理自公共資源（如官方旅遊單位、當地旅遊局與維基百科），並結合 Google 地圖上的基礎公開資訊作為參考。"
+      "content": "本網站為獨立旅遊資訊指南，內容整理自公開來源，包括官方港口資料、在地觀光參考資訊，以及 Google Maps 的基礎位置資料。"
     },
     "highlights": {
-      "title": "亮點",
+      "title": "旅客會把這裡排進行程的原因",
       "items": [
-        "豪華遊艇碼頭與海濱長廊",
-        "聯合國教科文組織世界遺產——達爾特維拉古城",
-        "前往福門特拉島一日遊的出發點",
-        "豐富多彩的餐飲、購物與夜生活",
-        "全天候免費開放，盡享地中海美景",
-        "設有商店、酒吧和餐廳的郵輪港口"
+        "港邊散步、拍照與海景餐廳最集中的區域",
+        "可直接步行前往 Dalt Vila 城門、城牆與觀景點",
+        "前往 Formentera 的重要渡輪出發區",
+        "同一港區內分為 marina、ferry 與 cruise 等不同區域",
+        "從機場或伊維薩市區搭計程車都很方便",
+        "夏季傍晚到日落前後氣氛最好，也最熱鬧"
       ]
     },
     "keywords": {
       "title": "相關關鍵詞"
     },
-    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+    "keywordsList": [
+      "Ibiza Harbour",
+      "Port d'Eivissa",
+      "Ibiza Port",
+      "Puerto de Ibiza",
+      "Formentera Ferry",
+      "Dalt Vila"
+    ]
   },
   "explore": {
-    "title": "探索伊維薩的海洋之心",
+    "title": "依照港口動線安排行程",
     "items": [
       {
-        "title": "碼頭長廊（Marina Port Ibiza）",
-        "description": "伊維薩最奢華的區域之一。沿著海濱漫步，近距離欣賞壯觀的超級遊艇，兩旁林立著高級精品店、露天咖啡館和酒吧。黃金時段造訪最為迷人，夕陽將大海和白色船身染成一片金黃。"
+        "title": "港邊步道與 marina 景觀",
+        "description": "主港邊步道最適合先熟悉環境。沿著海邊步行時，可以一邊看 Dalt Vila，一邊理解整個港區其實分成多個 marina 與功能區，而不是單一碼頭。"
       },
       {
-        "title": "達爾特維拉——聯合國教科文組織世界遺產古城",
-        "description": "港口背後矗立著壯麗的達爾特維拉古城。穿過宏偉的塞斯陶萊斯門（Portal de ses Taules），步入鋪滿鵝卵石的中世紀迷宮街巷。登上聖瑪利亞大教堂，將整座港口和地中海的全景盡收眼底。"
+        "title": "從港口走進 Dalt Vila",
+        "description": "很多人會從這裡直接銜接老城行程。從港邊往 Portal de ses Taules 方向前進，再一路往上走進 Dalt Vila，就能看到港區、海面與城牆同框的經典視角。"
       },
       {
-        "title": "海盜紀念碑",
-        "description": "港口長廊上矗立著世界上唯一一座向海盜致敬的紀念碑。十六世紀時，當地居民組建了獲授權的武裝艦隊，抵禦海上威脅。這座方尖碑紀念的正是那些保衛伊維薩的勇士。"
+        "title": "前往 Formentera 的渡輪",
+        "description": "Port d'Eivissa 是前往 Formentera 的主要出發區。如果你安排一日遊，建議提早抵達、確認船公司資訊，並依照現場標示前往正確的登船區。"
       },
       {
-        "title": "乘船遊覽與跳島之旅",
-        "description": "伊維薩港是重要的海上交通樞紐。您可以預訂日落雙體船巡航、包租私人遊艇，或搭乘渡輪前往有「地中海加勒比」之稱的福門特拉島——僅需短暫船程，是完美的一日遊選擇。"
+        "title": "郵輪動線與周邊服務",
+        "description": "整個港區也服務郵輪旅客、遊艇碼頭使用者與在地交通需求。附近有餐廳、計程車與步行路線，但旺季與夏季晚間停車位很快就會滿。"
       }
     ]
   },
@@ -72,30 +88,65 @@
     "source": "照片來源：Google 地圖（最後更新：2026 年）。如需查看完整相簿，請點擊下方連結。",
     "viewAll": "在 Google 地圖上查看所有照片",
     "images": [
-      { "alt": "伊維薩港全景", "caption": "港口全景" },
-      { "alt": "豪華遊艇", "caption": "碼頭遊艇" },
-      { "alt": "達爾特維拉古城", "caption": "達爾特維拉天際線" },
-      { "alt": "港口日落", "caption": "地中海日落" },
-      { "alt": "海濱餐廳", "caption": "海邊餐廳" },
-      { "alt": "福門特拉島渡輪", "caption": "渡輪碼頭" },
-      { "alt": "港口長廊", "caption": "夜間長廊" },
-      { "alt": "伊維薩市景觀", "caption": "從港口眺望伊維薩市" }
+      {
+        "alt": "伊維薩港全景",
+        "caption": "港口全景"
+      },
+      {
+        "alt": "豪華遊艇",
+        "caption": "碼頭遊艇"
+      },
+      {
+        "alt": "達爾特維拉古城",
+        "caption": "達爾特維拉天際線"
+      },
+      {
+        "alt": "港口日落",
+        "caption": "地中海日落"
+      },
+      {
+        "alt": "海濱餐廳",
+        "caption": "海邊餐廳"
+      },
+      {
+        "alt": "福門特拉島渡輪",
+        "caption": "渡輪碼頭"
+      },
+      {
+        "alt": "港口長廊",
+        "caption": "夜間長廊"
+      },
+      {
+        "alt": "伊維薩市景觀",
+        "caption": "從港口眺望伊維薩市"
+      }
     ]
   },
   "reviews": {
-    "title": "真實遊客評論",
-    "declaration": "評分與評論來自 Google 地圖（最後更新：2026 年）。我們僅展示經過驗證的高評分精選評論。如需查看所有完整及最新評論，請點擊下方連結。",
-    "seeAll": "在 Google 地圖上查看所有評論",
-    "items": [
-      { "name": "María García López", "date": "2026 年 3 月", "text": "令人驚嘆的港口！從海濱眺望達爾特維拉的景色十分壯觀。非常適合傍晚散步和欣賞日落，長廊上的餐廳供應一流的海鮮飯。" },
-      { "name": "Carlos Ruiz Martín", "date": "2026 年 2 月", "text": "伊維薩最佳日落漫步地點。近距離觀賞超級遊艇非常震撼。我們從這裡搭渡輪去了福門特拉島，是一次難忘的一日遊。" },
-      { "name": "Sophie Dubois", "date": "2026 年 1 月", "text": "美麗的碼頭，景色迷人。古城在港口後方拔地而起，營造出夢幻般的氛圍。酒吧和咖啡館的選擇非常豐富。" },
-      { "name": "Thomas Weber", "date": "2025 年 12 月", "text": "冬季到訪依然令人印象深刻，比夏天安靜許多。從港口步行上達爾特維拉絕對不容錯過，淡季時免費停車很容易找到。" },
-      { "name": "陳美玲", "date": "2025 年 11 月", "text": "港口是伊維薩的靈魂。我們在這裡度過了三個夜晚，品嚐了不同的餐廳。海盜紀念碑非常有趣，是一段獨特的歷史。" },
-      { "name": "James Mitchell", "date": "2025 年 10 月", "text": "出色的港口區域，有很多值得探索的地方。我們從這裡預訂了日落雙體船巡航，是假期的最大亮點。不過夏天停車不太容易。" },
-      { "name": "Ana Fernández", "date": "2025 年 9 月", "text": "地中海最美的港口之一。現代遊艇與古老城牆之間的對比令人歎為觀止。絕對必訪！" },
-      { "name": "Pierre Lefèvre", "date": "2025 年 8 月", "text": "一個神奇的地方，尤其是日落時分。古城牆旁的夜市非常適合尋找獨特的紀念品。波希米亞風情淋漓盡致。" }
-    ]
+    "title": "Google Maps 評分與到訪重點",
+    "declaration": "本頁不再展示個別訪客引言，而是保留最新的 Google Maps 公開評分，搭配更實用的到訪提示，方便你規劃 Ibiza Harbour 行程。",
+    "notesTitle": "多數人來這裡會做什麼",
+    "notes": [
+      "沿著海港散步，拍攝 Dalt Vila、遊艇碼頭與傍晚港景。",
+      "前往 Formentera 渡輪、參加出海行程，或剛到伊維薩城時先在此辨識方位。",
+      "從主要港邊區域步行就能抵達餐廳、酒吧與老城入口。",
+      "夏季傍晚最擁擠，停車較難，通常搭計程車或公車會更省事。"
+    ],
+    "seeAll": "查看完整 Google Maps 地點資訊",
+    "stats": {
+      "rating": {
+        "label": "Google 評分",
+        "value": "4.5/5"
+      },
+      "reviewCount": {
+        "label": "公開評論數",
+        "value": "24,376"
+      },
+      "lastChecked": {
+        "label": "最後核對",
+        "value": "2026 年 10 月"
+      }
+    }
   },
   "practical": {
     "title": "實用資訊",
@@ -117,11 +168,19 @@
     },
     "accessibility": {
       "label": "無障礙設施",
-      "value": "設有無障礙入口及停車位。支援 NFC 行動支付、信用卡及簽帳卡付款。"
+      "value": "港邊公共區域大致平坦好走，並提供無障礙出入口與鄰近停車選項。"
     },
     "phone": {
       "label": "電話",
       "value": "+34 971 31 06 11"
+    },
+    "mapCode": {
+      "label": "Plus code",
+      "value": "WC6Q+63 Eivissa, Spain"
+    },
+    "lastChecked": {
+      "label": "最新資料核對",
+      "value": "Google Maps 與地址資訊已於 2026 年 10 月核對"
     }
   },
   "map": {
@@ -130,16 +189,16 @@
   },
   "references": {
     "title": "資料與參考來源",
-    "disclaimer": "本網站為獨立的第三方旅遊資訊入口網站。資訊來自公共資源（旅遊局及維基百科）以及 Google 地圖的基礎資料。",
+    "disclaimer": "本頁結合公開地圖資料、官方來源與在地參考資訊，協助旅客在出發前確認港口位置、區域分布與基本動線。",
     "sources": {
-      "google": "Google 地圖——評分、評論及地理資料",
-      "unsplash": "Unsplash——相簿中使用的照片",
-      "wikipedia": "維基百科——歷史與文化資訊"
+      "google": "Google Maps - 公開評分、地址與基礎位置資料",
+      "ports": "Ports de Balears - 官方港口平面圖與設施資訊",
+      "city": "伊維薩在地觀光與市政參考資料，用於 Dalt Vila 與到訪動線整理"
     }
   },
   "footer": {
     "support": "如需本網站技術支援，請聯繫：claritleonelmnicol@gmail.com",
-    "copyright": "© 2026 Port d'Eivissa · 版權所有",
+    "copyright": "© 2026 Ibiza Harbour · Port d'Eivissa",
     "privacy": "隱私權政策",
     "terms": "服務條款",
     "cookies": "Cookie 設定"

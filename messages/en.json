@@ -1,68 +1,84 @@
 {
   "meta": {
-    "title": "Port d'Eivissa — Ibiza Harbour, Balearic Islands",
-    "description": "Complete guide to Ibiza Harbour: yacht marina, waterfront promenade, Dalt Vila, Formentera ferries, restaurants and nightlife."
+    "title": "Ibiza Harbour (Port d'Eivissa) - Visitor Guide, Ferries & Dalt Vila",
+    "description": "Visitor guide to Ibiza Harbour (Port d'Eivissa), with ferries, marina areas, Dalt Vila access, maps and practical information."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
-    "reviews": "Reviews",
+    "reviews": "Ratings",
     "map": "Map",
     "privacy": "Privacy",
     "terms": "Terms",
     "cookies": "Cookies"
   },
   "hero": {
-    "title": "Port d'Eivissa",
-    "subtitle": "The iconic harbour of Ibiza, heart of the Mediterranean",
+    "title": "Ibiza Harbour - Port d'Eivissa",
+    "subtitle": "Visitor guide to Ibiza Town's harbour, ferries, marinas and Dalt Vila views",
     "rating": "4.5/5",
-    "reviewCount": "23,759",
-    "reviewLabel": "reviews",
+    "reviewCount": "24,376",
+    "reviewLabel": "Google Maps reviews",
     "hours": "Open 24 hours",
     "openMaps": "Open on Google Maps",
-    "tags": ["Harbour", "Yachts", "Mediterranean", "Dalt Vila", "Cruises", "Sunset", "Formentera", "Dining"]
+    "tags": [
+      "Harbour",
+      "Ferries",
+      "Dalt Vila",
+      "Cruise Port",
+      "Marinas",
+      "Formentera",
+      "Maps",
+      "Dining"
+    ]
   },
   "about": {
-    "title": "Discover the Harbour",
-    "description": "Located in the heart of Ibiza Town in Spain's Balearic Islands, Ibiza Harbour (Port d'Eivissa) is far more than a playground for luxury yachts — it's the perfect hub where ancient history meets vibrant Mediterranean life. Whether you're seeking authentic tapas, sunset boat cruises, or the UNESCO World Heritage old town, this is your ideal starting point.",
+    "title": "Discover Ibiza Harbour",
+    "description": "Ibiza Harbour, also known as Port d'Eivissa or Ibiza Port, is the main waterfront hub of Ibiza Town. It connects marinas, ferry departures, cruise access and the walk up to Dalt Vila, making it the most practical base for first-time visitors who want harbour views, transport links and old-town atmosphere in one place.",
     "disclaimer": {
       "title": "About This Site",
-      "content": "This website is an independent third-party travel information site created to provide objective guidance for visiting the harbour and its surrounding area. The content is compiled from public sources, including official tourism bodies, local tourism authorities and Wikipedia, and is supplemented with basic public information from Google Maps."
+      "content": "This website is an independent travel information guide. We compile practical visitor information from public sources, including official port materials, local tourism references and baseline location data from Google Maps."
     },
     "highlights": {
-      "title": "Highlights",
+      "title": "Why travellers use this area",
       "items": [
-        "Luxury yacht marina and waterfront promenade",
-        "UNESCO World Heritage Dalt Vila old town backdrop",
-        "Gateway to Formentera island day trips",
-        "Vibrant dining, shopping and nightlife scene",
-        "24/7 free public access with scenic Mediterranean views",
-        "Cruise ship port with shops, bars and restaurants"
+        "Main harbour area for walking, photos and waterfront dining",
+        "Direct access to Dalt Vila viewpoints and the old town gates",
+        "Departure point for Formentera ferries and many boat trips",
+        "Separate marina, ferry and cruise areas within the wider port zone",
+        "Easy taxi connection from Ibiza Airport and central Ibiza Town",
+        "Busy summer evenings with the best atmosphere around sunset"
       ]
     },
     "keywords": {
       "title": "Related Keywords"
     },
-    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+    "keywordsList": [
+      "Ibiza Harbour",
+      "Port d'Eivissa",
+      "Ibiza Port",
+      "Puerto de Ibiza",
+      "Formentera Ferry",
+      "Dalt Vila"
+    ]
   },
   "explore": {
-    "title": "Explore Ibiza's Maritime Heart",
+    "title": "Plan Your Visit Around The Harbour",
     "items": [
       {
-        "title": "Marina Promenade (Marina Port Ibiza)",
-        "description": "One of the most luxurious areas of Ibiza. Stroll along the waterfront admiring stunning superyachts while enjoying high-end boutiques, open-air cafés, and sunset cocktails. Best visited at golden hour when the light paints the sea and white hulls in gold."
+        "title": "Harbour Promenade & Marina Views",
+        "description": "The main promenade is the easiest place to get your bearings. You can walk along the waterfront, look across to Dalt Vila and see how the harbour opens into several marina areas rather than a single dock."
       },
       {
-        "title": "Dalt Vila — UNESCO World Heritage Old Town",
-        "description": "The harbour's magnificent backdrop is the ancient Dalt Vila. Pass through the grand Portal de ses Taules — with its massive stone arch and drawbridge — to enter a medieval labyrinth of cobblestone streets. Climb to the Cathedral of Santa Maria for panoramic views of the entire harbour and Mediterranean."
+        "title": "Dalt Vila From The Port",
+        "description": "One of the best reasons to start here is the immediate connection to Ibiza's historic core. From the harbour you can walk toward Portal de ses Taules and climb into Dalt Vila for panoramic views over the port and old town walls."
       },
       {
-        "title": "Corsair Monument",
-        "description": "On the harbour promenade stands the world's only monument honouring corsairs — officially licensed pirates. In the 16th century, locals formed armed fleets to defend the island against maritime threats. This obelisk commemorates those who protected Ibiza."
+        "title": "Ferries To Formentera",
+        "description": "Port d'Eivissa is the key departure area for Formentera connections. If you are planning a day trip, arrive with time to orient yourself, confirm the operator and follow signage for the correct ferry boarding area."
       },
       {
-        "title": "Boat Trips & Island Hopping",
-        "description": "Ibiza Harbour is a major maritime hub. Book catamaran sunset cruises, charter private yachts, or take the ferry to Formentera — the 'Caribbean of the Mediterranean' — just a short boat ride away, perfect for a day trip."
+        "title": "Cruise Access & Nearby Services",
+        "description": "The wider port zone also serves cruise visitors, marina guests and local transport. Restaurants, taxis and walking routes are close by, but parking becomes limited quickly in peak season and on summer evenings."
       }
     ]
   },
@@ -72,30 +88,65 @@
     "source": "Photo: Google Maps (last updated: 2026). For full gallery, click below.",
     "viewAll": "View all photos on Google Maps",
     "images": [
-      { "alt": "Ibiza harbour panorama", "caption": "Harbour panoramic view" },
-      { "alt": "Luxury yachts", "caption": "Marina yachts" },
-      { "alt": "Dalt Vila old town", "caption": "Dalt Vila skyline" },
-      { "alt": "Sunset over harbour", "caption": "Mediterranean sunset" },
-      { "alt": "Waterfront dining", "caption": "Seaside restaurants" },
-      { "alt": "Formentera ferry", "caption": "Ferry terminal" },
-      { "alt": "Harbour promenade", "caption": "Evening promenade" },
-      { "alt": "Ibiza town view", "caption": "Ibiza Town from harbour" }
+      {
+        "alt": "Ibiza harbour panorama",
+        "caption": "Harbour panoramic view"
+      },
+      {
+        "alt": "Luxury yachts",
+        "caption": "Marina yachts"
+      },
+      {
+        "alt": "Dalt Vila old town",
+        "caption": "Dalt Vila skyline"
+      },
+      {
+        "alt": "Sunset over harbour",
+        "caption": "Mediterranean sunset"
+      },
+      {
+        "alt": "Waterfront dining",
+        "caption": "Seaside restaurants"
+      },
+      {
+        "alt": "Formentera ferry",
+        "caption": "Ferry terminal"
+      },
+      {
+        "alt": "Harbour promenade",
+        "caption": "Evening promenade"
+      },
+      {
+        "alt": "Ibiza town view",
+        "caption": "Ibiza Town from harbour"
+      }
     ]
   },
   "reviews": {
-    "title": "Real Visitor Reviews",
-    "declaration": "Ratings and reviews from Google Maps (last updated: 2026). We show only a selection of verified high-rated reviews. To see all complete and most recent reviews, click the link below.",
-    "seeAll": "See all reviews on Google Maps",
-    "items": [
-      { "name": "María García López", "date": "March 2026", "text": "Amazing harbour! The views of Dalt Vila from the waterfront are spectacular. Perfect for evening walks and sunset watching — the restaurants along the promenade serve excellent paella." },
-      { "name": "Carlos Ruiz Martín", "date": "February 2026", "text": "Best spot in Ibiza for a sunset stroll. The superyachts are incredible to see up close. We took the ferry to Formentera from here — unforgettable day trip." },
-      { "name": "Sophie Dubois", "date": "January 2026", "text": "Beautiful marina with stunning views. The old town rising behind the harbour creates a magical atmosphere. Great selection of bars and cafés." },
-      { "name": "Thomas Weber", "date": "December 2025", "text": "Visited during winter and still impressive. Much quieter than summer. The walk up to Dalt Vila from the harbour is a must-do — free parking was easy to find off-season." },
-      { "name": "陳美玲", "date": "November 2025", "text": "The harbour is the heart of Ibiza. We spent three evenings here enjoying different restaurants. The Corsair Monument is fascinating — a unique piece of history." },
-      { "name": "James Mitchell", "date": "October 2025", "text": "Great harbour area with plenty to see and do. Booked a sunset catamaran cruise from here — highlight of our holiday. Parking is tough in summer though." },
-      { "name": "Ana Fernández", "date": "September 2025", "text": "One of the most beautiful harbours in the Mediterranean. The contrast between modern yachts and the ancient walled city is incredible. A must-visit!" },
-      { "name": "Pierre Lefèvre", "date": "August 2025", "text": "Magical place especially at sunset. The night markets near the old town walls are wonderful for unique souvenirs. Bohemian atmosphere at its best." }
-    ]
+    "title": "Google Maps Rating & Visitor Notes",
+    "declaration": "We no longer reproduce individual visitor quotes on this page. Instead, we show the latest public Google Maps rating together with practical notes that help you plan a visit to Ibiza Harbour.",
+    "notesTitle": "What people usually come here for",
+    "notes": [
+      "Waterfront walks with open views of Dalt Vila, marina berths and evening light over the harbour.",
+      "Formentera ferry departures, boat excursions and quick orientation when arriving in Ibiza Town.",
+      "Restaurants, bars and old-town access within walking distance of the main harbour frontage.",
+      "Summer evenings are the busiest period, so parking is limited and taxis or buses are often easier."
+    ],
+    "seeAll": "See the full Google Maps listing",
+    "stats": {
+      "rating": {
+        "label": "Google rating",
+        "value": "4.5/5"
+      },
+      "reviewCount": {
+        "label": "Public reviews",
+        "value": "24,376"
+      },
+      "lastChecked": {
+        "label": "Last checked",
+        "value": "October 2026"
+      }
+    }
   },
   "practical": {
     "title": "Practical Information",
@@ -117,11 +168,19 @@
     },
     "accessibility": {
       "label": "Accessibility",
-      "value": "Wheelchair accessible entrance and parking. NFC mobile payment, credit and debit cards accepted."
+      "value": "Public waterfront areas are generally walkable, with wheelchair-accessible access points and nearby parking options."
     },
     "phone": {
       "label": "Phone",
       "value": "+34 971 31 06 11"
+    },
+    "mapCode": {
+      "label": "Plus code",
+      "value": "WC6Q+63 Eivissa, Spain"
+    },
+    "lastChecked": {
+      "label": "Latest data check",
+      "value": "Google Maps and address details reviewed in October 2026"
     }
   },
   "map": {
@@ -130,16 +189,16 @@
   },
   "references": {
     "title": "Data & References",
-    "disclaimer": "This site is an independent third-party tourist information portal. Information is drawn from public resources (tourism offices and Wikipedia) and Google Maps baseline data.",
+    "disclaimer": "This page combines public mapping data with official and local reference sources to help visitors verify harbour access, layout and orientation before arrival.",
     "sources": {
-      "google": "Google Maps — Ratings, reviews and geographic data",
-      "unsplash": "Unsplash — Photographs used in the gallery",
-      "wikipedia": "Wikipedia — Historical and cultural information"
+      "google": "Google Maps - public rating, address and location baseline",
+      "ports": "Ports de Balears - official port plans and harbour facilities",
+      "city": "Local Ibiza tourism and city references for Dalt Vila and visitor orientation"
     }
   },
   "footer": {
     "support": "For technical support for this website, please contact: claritleonelmnicol@gmail.com",
-    "copyright": "© 2026 Port d'Eivissa · All rights reserved",
+    "copyright": "© 2026 Ibiza Harbour · Port d'Eivissa",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings"

@@ -1,68 +1,84 @@
 {
   "meta": {
-    "title": "Port d'Eivissa — Puerto de Ibiza, Islas Baleares",
-    "description": "Guía completa del puerto de Ibiza: marina de yates, paseo marítimo, Dalt Vila, ferris a Formentera, restaurantes y vida nocturna."
+    "title": "Puerto de Ibiza (Port d'Eivissa) - Guía, ferris y Dalt Vila",
+    "description": "Guía del Puerto de Ibiza (Port d'Eivissa) con ferris, zonas de marina, acceso a Dalt Vila, mapa e información práctica."
   },
   "header": {
     "home": "Inicio",
     "gallery": "Galería",
-    "reviews": "Reseñas",
+    "reviews": "Valoración",
     "map": "Mapa",
     "privacy": "Privacidad",
     "terms": "Términos",
     "cookies": "Cookies"
   },
   "hero": {
-    "title": "Port d'Eivissa",
-    "subtitle": "El emblemático puerto de Ibiza, corazón del Mediterráneo",
+    "title": "Puerto de Ibiza (Port d'Eivissa)",
+    "subtitle": "Guía del puerto de Ibiza: ferris, marinas y vistas a Dalt Vila",
     "rating": "4.5/5",
-    "reviewCount": "23,759",
-    "reviewLabel": "reseñas",
+    "reviewCount": "24.376",
+    "reviewLabel": "reseñas en Google Maps",
     "hours": "Abierto las 24 horas",
     "openMaps": "Abrir en Google Maps",
-    "tags": ["Puerto", "Yates", "Mediterráneo", "Dalt Vila", "Cruceros", "Atardecer", "Formentera", "Gastronomía"]
+    "tags": [
+      "Puerto",
+      "Ferris",
+      "Dalt Vila",
+      "Cruceros",
+      "Marinas",
+      "Formentera",
+      "Mapa",
+      "Restaurantes"
+    ]
   },
   "about": {
-    "title": "Descubre el Puerto",
-    "description": "Situado en el corazón de la ciudad de Ibiza, en las Islas Baleares, el Puerto de Ibiza (Port d'Eivissa) es mucho más que un refugio de yates de lujo: es el punto de encuentro perfecto entre la historia milenaria y la vibrante vida mediterránea. Ya busques tapas auténticas, cruceros al atardecer o explorar el casco antiguo declarado Patrimonio de la Humanidad, este es tu punto de partida ideal.",
+    "title": "Descubre Ibiza Harbour",
+    "description": "Ibiza Harbour, también conocido como Port d'Eivissa o Puerto de Ibiza, es el gran frente marítimo de la ciudad de Ibiza. Aquí se conectan marinas, salidas de ferri, acceso de cruceros y el paseo hacia Dalt Vila, por lo que es el punto más práctico para combinar vistas al puerto, transporte y ambiente histórico en una misma visita.",
     "disclaimer": {
       "title": "Sobre este sitio",
-      "content": "Este sitio web es una plataforma independiente de información turística de terceros, creada para ofrecer recomendaciones objetivas sobre la visita al puerto y sus alrededores. La información se recopila a partir de fuentes públicas, incluidas entidades oficiales de turismo, organismos turísticos locales y Wikipedia, y se complementa con información pública básica de Google Maps."
+      "content": "Este sitio web es una guía independiente de información turística. Reunimos datos prácticos para visitantes a partir de fuentes públicas, incluidos materiales oficiales del puerto, referencias turísticas locales y datos básicos de ubicación de Google Maps."
     },
     "highlights": {
-      "title": "Destacados",
+      "title": "Por qué la gente visita esta zona",
       "items": [
-        "Marina de yates de lujo y paseo marítimo",
-        "Dalt Vila, casco antiguo Patrimonio de la Humanidad por la UNESCO",
-        "Punto de partida para excursiones a Formentera",
-        "Animada oferta gastronómica, comercial y de ocio nocturno",
-        "Acceso público gratuito las 24 horas con vistas al Mediterráneo",
-        "Puerto de cruceros con tiendas, bares y restaurantes"
+        "Zona principal del puerto para pasear, hacer fotos y comer frente al mar",
+        "Acceso directo a Dalt Vila, sus murallas y sus miradores",
+        "Punto de salida para ferris a Formentera y muchas excursiones en barco",
+        "Diferentes áreas de marina, ferri y cruceros dentro del puerto",
+        "Conexión fácil en taxi desde el aeropuerto y desde el centro de Ibiza",
+        "Las tardes de verano son el momento con más ambiente, sobre todo al atardecer"
       ]
     },
     "keywords": {
       "title": "Palabras clave relacionadas"
     },
-    "keywordsList": ["Port d'Eivissa", "Ibiza Harbour", "Marina Ibiza", "Dalt Vila", "Formentera Ferry", "Mediterranean"]
+    "keywordsList": [
+      "Ibiza Harbour",
+      "Port d'Eivissa",
+      "Ibiza Port",
+      "Puerto de Ibiza",
+      "Ferri a Formentera",
+      "Dalt Vila"
+    ]
   },
   "explore": {
-    "title": "Explora el Corazón Marítimo de Ibiza",
+    "title": "Organiza la visita alrededor del puerto",
     "items": [
       {
-        "title": "Paseo de la Marina (Marina Port Ibiza)",
-        "description": "Una de las zonas más exclusivas de Ibiza. Pasea junto al mar admirando impresionantes superyates mientras disfrutas de boutiques, cafeterías al aire libre y cócteles al atardecer. La hora dorada tiñe de oro los cascos blancos y el mar en un espectáculo inolvidable."
+        "title": "Paseo del Puerto y vistas de las marinas",
+        "description": "El paseo principal es la forma más sencilla de orientarse. Desde aquí puedes caminar junto al mar, contemplar Dalt Vila y entender cómo el puerto se reparte en varias zonas de marina en lugar de un único muelle."
       },
       {
-        "title": "Dalt Vila — Casco Antiguo Patrimonio de la Humanidad",
-        "description": "El telón de fondo del puerto es la majestuosa Dalt Vila. Cruza el Portal de ses Taules, con su gran arco de piedra y puente levadizo, para adentrarte en un laberinto medieval de calles empedradas. Sube hasta la Catedral de Santa María y contempla vistas panorámicas de todo el puerto y el Mediterráneo."
+        "title": "Dalt Vila desde el puerto",
+        "description": "Una de las mejores razones para empezar aquí es la conexión inmediata con el casco histórico. Desde el puerto puedes avanzar hacia el Portal de ses Taules y subir a Dalt Vila para disfrutar de vistas panorámicas del puerto y de las murallas."
       },
       {
-        "title": "Monumento a los Corsarios",
-        "description": "En el paseo del puerto se alza el único monumento del mundo dedicado a los corsarios. En el siglo XVI, los ibicencos formaron flotas armadas autorizadas para defender la isla de las amenazas marítimas. Este obelisco honra a quienes protegieron Ibiza."
+        "title": "Ferris a Formentera",
+        "description": "Port d'Eivissa es la zona clave para salir hacia Formentera. Si planeas una excursión de un día, conviene llegar con tiempo, confirmar la compañía y seguir la señalización hasta la zona correcta de embarque."
       },
       {
-        "title": "Excursiones en Barco e Isla en Isla",
-        "description": "El puerto de Ibiza es un importante centro marítimo. Reserva cruceros en catamarán al atardecer, alquila yates privados o toma el ferri a Formentera — el «Caribe del Mediterráneo» — a solo unos minutos en barco, perfecta para una escapada de un día."
+        "title": "Acceso de cruceros y servicios cercanos",
+        "description": "El conjunto portuario también atiende a cruceristas, usuarios de marina y transporte local. Hay restaurantes, taxis y recorridos a pie cerca, pero el aparcamiento se llena muy rápido en temporada alta y en las noches de verano."
       }
     ]
   },
@@ -72,30 +88,65 @@
     "source": "Foto: Google Maps (última actualización: 2026). Para ver la galería completa, haz clic abajo.",
     "viewAll": "Ver todas las fotos en Google Maps",
     "images": [
-      { "alt": "Panorámica del puerto de Ibiza", "caption": "Vista panorámica del puerto" },
-      { "alt": "Yates de lujo", "caption": "Yates en la marina" },
-      { "alt": "Casco antiguo de Dalt Vila", "caption": "Perfil de Dalt Vila" },
-      { "alt": "Atardecer sobre el puerto", "caption": "Atardecer mediterráneo" },
-      { "alt": "Restaurantes junto al mar", "caption": "Restaurantes frente al mar" },
-      { "alt": "Ferri a Formentera", "caption": "Terminal de ferris" },
-      { "alt": "Paseo del puerto", "caption": "Paseo nocturno" },
-      { "alt": "Vista de la ciudad de Ibiza", "caption": "Ibiza ciudad desde el puerto" }
+      {
+        "alt": "Panorámica del puerto de Ibiza",
+        "caption": "Vista panorámica del puerto"
+      },
+      {
+        "alt": "Yates de lujo",
+        "caption": "Yates en la marina"
+      },
+      {
+        "alt": "Casco antiguo de Dalt Vila",
+        "caption": "Perfil de Dalt Vila"
+      },
+      {
+        "alt": "Atardecer sobre el puerto",
+        "caption": "Atardecer mediterráneo"
+      },
+      {
+        "alt": "Restaurantes junto al mar",
+        "caption": "Restaurantes frente al mar"
+      },
+      {
+        "alt": "Ferri a Formentera",
+        "caption": "Terminal de ferris"
+      },
+      {
+        "alt": "Paseo del puerto",
+        "caption": "Paseo nocturno"
+      },
+      {
+        "alt": "Vista de la ciudad de Ibiza",
+        "caption": "Ibiza ciudad desde el puerto"
+      }
     ]
   },
   "reviews": {
-    "title": "Reseñas Reales de Visitantes",
-    "declaration": "Valoraciones y reseñas procedentes de Google Maps (última actualización: 2026). Mostramos solo una selección de reseñas verificadas con alta puntuación. Para consultar todas las reseñas completas y más recientes, haz clic en el enlace inferior.",
-    "seeAll": "Ver todas las reseñas en Google Maps",
-    "items": [
-      { "name": "María García López", "date": "Marzo 2026", "text": "¡Un puerto increíble! Las vistas de Dalt Vila desde el paseo marítimo son espectaculares. Perfecto para paseos al atardecer, y la paella de los restaurantes del paseo es excelente." },
-      { "name": "Carlos Ruiz Martín", "date": "Febrero 2026", "text": "El mejor lugar de Ibiza para un paseo al atardecer. Los superyates impresionan de cerca. Cogimos el ferri a Formentera desde aquí: una excursión inolvidable." },
-      { "name": "Sophie Dubois", "date": "Enero 2026", "text": "Una marina preciosa con vistas impresionantes. El casco antiguo elevándose tras el puerto crea una atmósfera mágica. Gran variedad de bares y cafeterías." },
-      { "name": "Thomas Weber", "date": "Diciembre 2025", "text": "Lo visitamos en invierno y sigue siendo impresionante. Mucho más tranquilo que en verano. La subida a Dalt Vila desde el puerto es imprescindible." },
-      { "name": "陳美玲", "date": "Noviembre 2025", "text": "El puerto es el alma de Ibiza. Pasamos tres noches disfrutando de diferentes restaurantes. El Monumento a los Corsarios es fascinante: una pieza única de historia." },
-      { "name": "James Mitchell", "date": "Octubre 2025", "text": "Una zona portuaria estupenda con mucho que ver y hacer. Reservamos un crucero en catamarán al atardecer: lo mejor de nuestras vacaciones." },
-      { "name": "Ana Fernández", "date": "Septiembre 2025", "text": "Uno de los puertos más bonitos del Mediterráneo. El contraste entre los yates modernos y la ciudad amurallada es increíble. ¡Visita obligada!" },
-      { "name": "Pierre Lefèvre", "date": "Agosto 2025", "text": "Un lugar mágico, especialmente al atardecer. Los mercadillos nocturnos junto a las murallas son perfectos para encontrar recuerdos únicos. Ambiente bohemio en estado puro." }
-    ]
+    "title": "Valoración en Google Maps y notas de visita",
+    "declaration": "Ya no reproducimos citas individuales de visitantes en esta página. En su lugar mostramos la valoración pública más reciente de Google Maps junto con notas prácticas para planificar una visita al Puerto de Ibiza.",
+    "notesTitle": "Para qué suele venir la gente",
+    "notes": [
+      "Pasear junto al agua con vistas abiertas a Dalt Vila, a las marinas y a la luz del atardecer sobre el puerto.",
+      "Tomar el ferri a Formentera, hacer excursiones en barco u orientarse al llegar a la ciudad de Ibiza.",
+      "Acceder caminando a restaurantes, bares y al casco antiguo desde el frente portuario principal.",
+      "Las tardes y noches de verano son el periodo más concurrido, por lo que el taxi o el autobús suelen ser más cómodos que aparcar."
+    ],
+    "seeAll": "Ver la ficha completa en Google Maps",
+    "stats": {
+      "rating": {
+        "label": "Puntuación de Google",
+        "value": "4,5/5"
+      },
+      "reviewCount": {
+        "label": "Reseñas públicas",
+        "value": "24.376"
+      },
+      "lastChecked": {
+        "label": "Última revisión",
+        "value": "Octubre 2026"
+      }
+    }
   },
   "practical": {
     "title": "Información Práctica",
@@ -117,11 +168,19 @@
     },
     "accessibility": {
       "label": "Accesibilidad",
-      "value": "Entrada y aparcamiento accesibles para sillas de ruedas. Se aceptan pagos NFC, tarjetas de crédito y débito."
+      "value": "Las zonas públicas del frente marítimo suelen ser transitables y cuentan con accesos adaptados y opciones de aparcamiento cercanas."
     },
     "phone": {
       "label": "Teléfono",
       "value": "+34 971 31 06 11"
+    },
+    "mapCode": {
+      "label": "Plus code",
+      "value": "WC6Q+63 Eivissa, Spain"
+    },
+    "lastChecked": {
+      "label": "Última comprobación de datos",
+      "value": "Datos de Google Maps y dirección revisados en octubre de 2026"
     }
   },
   "map": {
@@ -130,16 +189,16 @@
   },
   "references": {
     "title": "Datos y Referencias",
-    "disclaimer": "Este sitio es un portal independiente de información turística de terceros. La información proviene de recursos públicos (oficinas de turismo y Wikipedia) y datos base de Google Maps.",
+    "disclaimer": "Esta página combina datos públicos de mapas con fuentes oficiales y locales para ayudarte a verificar el acceso, la distribución y la orientación del puerto antes de llegar.",
     "sources": {
-      "google": "Google Maps — Valoraciones, reseñas y datos geográficos",
-      "unsplash": "Unsplash — Fotografías utilizadas en la galería",
-      "wikipedia": "Wikipedia — Información histórica y cultural"
+      "google": "Google Maps - valoración pública, dirección y datos básicos de ubicación",
+      "ports": "Ports de Balears - planos oficiales del puerto y sus instalaciones",
+      "city": "Fuentes turísticas y municipales de Ibiza para Dalt Vila y orientación del visitante"
     }
   },
   "footer": {
     "support": "Para soporte técnico de este sitio web, contacta con: claritleonelmnicol@gmail.com",
-    "copyright": "© 2026 Port d'Eivissa · Todos los derechos reservados",
+    "copyright": "© 2026 Ibiza Harbour · Port d'Eivissa",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies"
