@@ -5,7 +5,7 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
   const {locale} = await params;
   setRequestLocale(locale);
   const t = await getTranslations({locale, namespace: 'cookieSettings'});
-  const baseUrl = 'https://ibzharbour.com';
+  const baseUrl = 'https://www.ibzharbour.com';
   const path = '/cookie-settings';
   
   return {
@@ -17,7 +17,7 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
         'en': `${baseUrl}/en${path}`,
         'fr': `${baseUrl}/fr${path}`,
         'zh-Hant': `${baseUrl}/zh-Hant${path}`,
-        'x-default': `${baseUrl}${path}`
+        'x-default': `${baseUrl}/es${path}`
       }
     }
   };

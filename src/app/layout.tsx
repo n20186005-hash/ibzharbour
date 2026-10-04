@@ -3,7 +3,7 @@ import Script from 'next/script';
 
 export const metadata: Metadata = {
   title: 'Ibiza Harbour | Port d\'Eivissa',
-  description: 'Complete guide to Ibiza Harbour (Port d\'Eivissa). Hours, directions, photos and reviews.',
+  description: 'Visitor guide to Ibiza Harbour (Port d\'Eivissa), including ferries, Dalt Vila access, practical information and maps.',
   metadataBase: new URL('https://www.ibzharbour.com'),
   other: {
     'google-adsense-account': 'ca-pub-9279583389810634'

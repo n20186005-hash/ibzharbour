@@ -3,6 +3,7 @@ import { useTranslations } from 'next-intl';
 
 export default function References() {
   const t = useTranslations('references');
+  const sources = ['google', 'ports', 'city'] as const;
 
   return (
     <section className="section">
@@ -13,18 +14,12 @@ export default function References() {
         {t('disclaimer')}
       </p>
       <ul className="space-y-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
-        <li className="flex items-center gap-2">
-          <span style={{ color: 'var(--accent)' }}>•</span>
-          {t('sources.google')}
-        </li>
-        <li className="flex items-center gap-2">
-          <span style={{ color: 'var(--accent)' }}>•</span>
-          {t('sources.unsplash')}
-        </li>
-        <li className="flex items-center gap-2">
-          <span style={{ color: 'var(--accent)' }}>•</span>
-          {t('sources.wikipedia')}
-        </li>
+        {sources.map((source) => (
+          <li key={source} className="flex items-center gap-2">
+            <span style={{ color: 'var(--accent)' }}>•</span>
+            {t(`sources.${source}`)}
+          </li>
+        ))}
       </ul>
     </section>
   );

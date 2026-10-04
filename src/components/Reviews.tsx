@@ -1,11 +1,10 @@
 'use client';
 import { useTranslations } from 'next-intl';
 
-const COLORS = ['#0077b6', '#e94560', '#2d6a4f', '#e07c24', '#6c63ff', '#d63384', '#0d9488', '#b45309'];
-
 export default function Reviews() {
   const t = useTranslations('reviews');
-  const items = [0, 1, 2, 3, 4, 5, 6, 7];
+  const stats = ['rating', 'reviewCount', 'lastChecked'] as const;
+  const notes: string[] = t.raw('notes');
 
   return (
     <div style={{ backgroundColor: 'var(--bg-secondary)' }}>
@@ -17,37 +16,36 @@ export default function Reviews() {
           {t('declaration')}
         </p>
 
-        <div className="grid md:grid-cols-2 gap-4">
-          {items.map((i) => {
-            const name: string = t(`items.${i}.name`);
-            const initial = name.charAt(0).toUpperCase();
-            return (
-              <div key={i} className="review-card">
-                <div className="flex items-center gap-3 mb-3">
-                  <div
-                    className="w-10 h-10 rounded-full flex items-center justify-center text-white font-semibold text-sm"
-                    style={{ backgroundColor: COLORS[i % COLORS.length] }}
-                  >
-                    {initial}
-                  </div>
-                  <div>
-                    <div className="font-medium text-sm" style={{ color: 'var(--text-primary)' }}>{name}</div>
-                    <div className="text-xs" style={{ color: 'var(--text-muted)' }}>{t(`items.${i}.date`)}</div>
-                  </div>
-                  <div className="ml-auto stars text-sm">★★★★★</div>
-                </div>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                  {t(`items.${i}.text`)}
-                </p>
+        <div className="grid md:grid-cols-3 gap-4 mb-10">
+          {stats.map((stat) => (
+            <div key={stat} className="review-card">
+              <div className="text-xs uppercase tracking-[0.2em] mb-2" style={{ color: 'var(--text-muted)' }}>
+                {t(`stats.${stat}.label`)}
               </div>
-            );
-          })}
+              <div className="font-serif text-3xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>
+                {t(`stats.${stat}.value`)}
+              </div>
+            </div>
+          ))}
         </div>
 
+        <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+          {t('notesTitle')}
+        </h3>
+        <ul className="space-y-3 max-w-3xl">
+          {notes.map((note, index) => (
+            <li key={index} className="flex items-start gap-3" style={{ color: 'var(--text-secondary)' }}>
+              <span className="mt-1.5 flex-shrink-0" style={{ color: 'var(--accent)' }}>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+              </span>
+              <span>{note}</span>
+            </li>
+          ))}
+        </ul>
+        </div>
         {/* See all link */}
         <div className="mt-8 text-center">
           <a
-            href="https://maps.app.goo.gl/3g3UaPpcdnbCeZxX7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-sm font-medium hover:opacity-70 transition-opacity"
